@@ -1,0 +1,2811 @@
+{
+    "lens_id": "c6cece12-e684-4f23-a698-4e59df82b75f",
+    "document_id": "LiCQsMIa5HbQVePzMK72",
+    "original_document_id": "frtMagC3HitGmbdp6IAT",
+    "version": "26",
+    "lastChanged": "1605801350136",
+    "preview": "icon.png",
+    "videoPreview": "preview.mp4",
+    "videoPreviewUpdateTime": "",
+    "isReadOnly": "false",
+    "isAutoSaved": "false",
+    "studioVersion": {
+        "createdWith": {
+            "type": "Public",
+            "major": "3",
+            "minor": "2",
+            "patch": "0",
+            "build": "0"
+        },
+        "lastSavedWith": {
+            "type": "Public",
+            "major": "3",
+            "minor": "2",
+            "patch": "0",
+            "build": "0"
+        }
+    },
+    "view": {
+        "ResourceUiComponent": {
+            "collapsedList": [
+                [
+                    [
+                        "Bokeh"
+                    ],
+                    [
+                        "Bokeh",
+                        "Bokeh"
+                    ],
+                    [
+                        "Bokeh",
+                        "cr_linear_blend"
+                    ],
+                    [
+                        "Bokeh",
+                        "emitter_1000"
+                    ],
+                    [
+                        "Bokeh",
+                        "fx_bokeh"
+                    ],
+                    [
+                        "Materials"
+                    ],
+                    [
+                        "Materials",
+                        "Canopy"
+                    ],
+                    [
+                        "Materials",
+                        "Tree"
+                    ],
+                    [
+                        "Materials",
+                        "Water"
+                    ],
+                    [
+                        "Meshes"
+                    ],
+                    [
+                        "Meshes",
+                        "Canopy"
+                    ],
+                    [
+                        "Meshes",
+                        "Canopy",
+                        "canopy"
+                    ],
+                    [
+                        "Meshes",
+                        "Canopy",
+                        "canopy",
+                        "Animations"
+                    ],
+                    [
+                        "Meshes",
+                        "Canopy",
+                        "canopy",
+                        "Meshes"
+                    ],
+                    [
+                        "Meshes",
+                        "Canopy",
+                        "canopy",
+                        "Meshes",
+                        "Resource"
+                    ],
+                    [
+                        "Meshes",
+                        "Canopy",
+                        "canopy",
+                        "canopy"
+                    ],
+                    [
+                        "Meshes",
+                        "Tree"
+                    ],
+                    [
+                        "Meshes",
+                        "Tree",
+                        "tree"
+                    ],
+                    [
+                        "Meshes",
+                        "Tree",
+                        "tree",
+                        "Animations"
+                    ],
+                    [
+                        "Meshes",
+                        "Tree",
+                        "tree",
+                        "Meshes"
+                    ],
+                    [
+                        "Meshes",
+                        "Tree",
+                        "tree",
+                        "Meshes",
+                        "Resource"
+                    ],
+                    [
+                        "Meshes",
+                        "Tree",
+                        "tree",
+                        "tree"
+                    ],
+                    [
+                        "Meshes",
+                        "Water"
+                    ],
+                    [
+                        "Meshes",
+                        "Water",
+                        "water"
+                    ],
+                    [
+                        "Meshes",
+                        "Water",
+                        "water",
+                        "Animations"
+                    ],
+                    [
+                        "Meshes",
+                        "Water",
+                        "water",
+                        "Meshes",
+                        "Resource"
+                    ],
+                    [
+                        "Meshes",
+                        "Water",
+                        "water",
+                        "water"
+                    ],
+                    [
+                        "Prefabs"
+                    ],
+                    [
+                        "Prefabs",
+                        "WaterPrefab"
+                    ],
+                    [
+                        "Scripts"
+                    ],
+                    [
+                        "Scripts",
+                        "Animations"
+                    ],
+                    [
+                        "Scripts",
+                        "Animations",
+                        "GrowthAnimation"
+                    ],
+                    [
+                        "Scripts",
+                        "Animations",
+                        "Turntable"
+                    ],
+                    [
+                        "Scripts",
+                        "Canopy"
+                    ],
+                    [
+                        "Scripts",
+                        "Canopy",
+                        "CanopyScale"
+                    ],
+                    [
+                        "Scripts",
+                        "Water"
+                    ],
+                    [
+                        "Scripts",
+                        "Water",
+                        "CopyTransform"
+                    ],
+                    [
+                        "Scripts",
+                        "Water",
+                        "WaterTilesGenerator"
+                    ],
+                    [
+                        "Textures"
+                    ],
+                    [
+                        "Textures",
+                        "Canopy"
+                    ],
+                    [
+                        "Textures",
+                        "Canopy",
+                        "CanopyTex"
+                    ],
+                    [
+                        "Textures",
+                        "Lights (Echopark)"
+                    ],
+                    [
+                        "Textures",
+                        "Lights (Echopark)",
+                        "Diff"
+                    ],
+                    [
+                        "Textures",
+                        "Lights (Echopark)",
+                        "Specular"
+                    ],
+                    [
+                        "Textures",
+                        "Render Textures"
+                    ],
+                    [
+                        "Textures",
+                        "Render Textures",
+                        "Device Camera Texture"
+                    ],
+                    [
+                        "Textures",
+                        "Render Textures",
+                        "Reflection Target"
+                    ],
+                    [
+                        "Textures",
+                        "Render Textures",
+                        "Render Target"
+                    ],
+                    [
+                        "Textures",
+                        "Water"
+                    ],
+                    [
+                        "Textures",
+                        "Water",
+                        "LeafTex"
+                    ],
+                    [
+                        "WorldObjectController"
+                    ],
+                    [
+                        "WorldObjectController",
+                        "WorldObjectController"
+                    ],
+                    [
+                        "WorldObjectController",
+                        "touch_collision"
+                    ],
+                    [
+                        "WorldObjectController",
+                        "touch_collision_cube"
+                    ]
+                ]
+            ]
+        },
+        "SceneTreeUiComponent": {
+            "collapsedList": [
+                [
+                    "101:100",
+                    "1517446348227994:84813",
+                    "1517446348228144:84822",
+                    "1528843813151434:5126",
+                    "1604153976598282:12138",
+                    "1604154239999844:50090",
+                    "1604154240063793:50242",
+                    "1604154422497731:75038",
+                    "1604155804338656:247823",
+                    "1604156167734277:45807",
+                    "1604600385247646:16779",
+                    "1604600415125618:21405",
+                    "1604600446991452:26048",
+                    "1604613566967015:1276890",
+                    "1604613566967578:1276894",
+                    "1604613611468308:1285001",
+                    "1604615040742441:40577",
+                    "1604615043798288:42078",
+                    "1604615825247041:174014",
+                    "1604615825247537:174018",
+                    "1604761032005453:1508449",
+                    "1604761032005755:1508451",
+                    "1604761032609401:1509709",
+                    "1604761032609745:1509711",
+                    "1604767074019118:2143892",
+                    "1604768002057174:2286345",
+                    "1604768005151279:2286727",
+                    "1604768526223130:2387579",
+                    "1604768526223415:2387581",
+                    "1604942828609716:2156299",
+                    "1604942828610137:2156301",
+                    "1604942842440565:2159430",
+                    "1604942842441024:2159432",
+                    "1604942970661988:2181296",
+                    "1605184657652792:1386742",
+                    "1605187382768115:1980001",
+                    "1605213695504359:237267"
+                ]
+            ]
+        },
+        "MetaInfoUIComponent": {
+            "icon_hash": "5b64a5f5db480af2d2e386bdf26961bf",
+            "icon_path": "icon.png",
+            "hints": [
+                ""
+            ],
+            "lens": "Sakura",
+            "applicability": "2",
+            "lens_descriptors": ""
+        },
+        "PreviewUiComponent": {
+            "preview_descriptor": {
+                "is_capture": "0",
+                "camera_type": "1"
+            },
+            "show_snap_ui": "true",
+            "show_sponsored_ui": "false",
+            "preview_images_project_config": {
+                "back_preview_id": "bundle:Preview\/Images\/Beach.jpg",
+                "back_preview_is_favorite": "false",
+                "front_preview_id": "bundle:Preview\/Images\/Person 1.jpg",
+                "front_preview_is_favorite": "false",
+                "spectacles_preview_id": "bundle:Preview\/Images\/Pavement\/Pavement.jpg",
+                "spectacles_preview_is_favorite": "false"
+            },
+            "preview_videos_project_config": {
+                "back_preview_id": "bundle:Preview\/Videos\/Beach.webm",
+                "back_preview_is_favorite": "false",
+                "front_preview_id": "bundle:Preview\/Videos\/Idle Person 1.webm",
+                "front_preview_is_favorite": "false",
+                "spectacles_preview_id": "bundle:Preview\/Videos\/Climbing\/Climbing.webm",
+                "spectacles_preview_is_favorite": "false"
+            },
+            "preview_ie_project_config": {
+                "back_preview_id": "bundle:Preview\/InteractiveEnvironments\/Home",
+                "back_preview_is_favorite": "false",
+                "front_preview_id": "bundle:Preview\/InteractiveEnvironments\/Home",
+                "front_preview_is_favorite": "false",
+                "spectacles_preview_id": "bundle:Preview\/InteractiveEnvironments\/Home",
+                "spectacles_preview_is_favorite": "false"
+            }
+        },
+        "InspectorUiComponent": {
+            "collapsedList": [
+                [
+                    "1604942970661988:2181296"
+                ]
+            ]
+        },
+        "Material::UiComponent": {
+            "active_graph_asset": "1604156283578543:60256"
+        }
+    },
+    "model": {
+        "IResourceManager": {
+            "list": [
+                {
+                    "resId": "1",
+                    "uid": "1:1",
+                    "name": "Camera Output",
+                    "sourceFilePath": "",
+                    "additionalProperties": "",
+                    "flags": "0"
+                },
+                {
+                    "resId": "2",
+                    "uid": "2:2",
+                    "name": "Camera Input",
+                    "sourceFilePath": "",
+                    "additionalProperties": "",
+                    "flags": "0"
+                },
+                {
+                    "resId": "10",
+                    "uid": "1588296316843646:534374",
+                    "name": "Files\/File3.jpeg",
+                    "sourceFilePath": "",
+                    "additionalProperties": "",
+                    "flags": "1"
+                },
+                {
+                    "resId": "11",
+                    "uid": "1588296316857901:534385",
+                    "name": "Files\/File5.jpeg",
+                    "sourceFilePath": "",
+                    "additionalProperties": "",
+                    "flags": "1"
+                },
+                {
+                    "resId": "18",
+                    "uid": "1604154239784380:49920",
+                    "name": "Files\/File18.js",
+                    "sourceFilePath": "",
+                    "additionalProperties": "",
+                    "flags": "1"
+                },
+                {
+                    "resId": "19",
+                    "uid": "1604154239794916:49936",
+                    "name": "Files\/File19.mesh",
+                    "sourceFilePath": "",
+                    "additionalProperties": "",
+                    "flags": "1"
+                },
+                {
+                    "resId": "25",
+                    "uid": "1604154239871775:50028",
+                    "name": "Files\/File31",
+                    "sourceFilePath": "",
+                    "additionalProperties": "",
+                    "flags": "1"
+                },
+                {
+                    "resId": "29",
+                    "uid": "1604155787283981:245272",
+                    "name": "Files\/File38.mesh",
+                    "sourceFilePath": "",
+                    "additionalProperties": "",
+                    "flags": "1"
+                },
+                {
+                    "resId": "30",
+                    "uid": "1604155787290942:245298",
+                    "name": "water",
+                    "sourceFilePath": "",
+                    "additionalProperties": "",
+                    "flags": "0"
+                },
+                {
+                    "resId": "32",
+                    "uid": "1604156283578543:60256",
+                    "name": "Files\/File46",
+                    "sourceFilePath": "",
+                    "additionalProperties": "",
+                    "flags": "1"
+                },
+                {
+                    "resId": "34",
+                    "uid": "1604156283634209:60340",
+                    "name": "Render Target",
+                    "sourceFilePath": "",
+                    "additionalProperties": "",
+                    "flags": "0"
+                },
+                {
+                    "resId": "36",
+                    "uid": "1604157822159505:586842",
+                    "name": "Files\/File52.png",
+                    "sourceFilePath": "",
+                    "additionalProperties": "",
+                    "flags": "1"
+                },
+                {
+                    "resId": "39",
+                    "uid": "1604600377849278:15459",
+                    "name": "Files\/File58.js",
+                    "sourceFilePath": "",
+                    "additionalProperties": "",
+                    "flags": "1"
+                },
+                {
+                    "resId": "45",
+                    "uid": "1604612634813416:1161065",
+                    "name": "Files\/File69",
+                    "sourceFilePath": "",
+                    "additionalProperties": "",
+                    "flags": "1"
+                },
+                {
+                    "resId": "46",
+                    "uid": "1604612634864582:1161119",
+                    "name": "Files\/File71.jpg",
+                    "sourceFilePath": "",
+                    "additionalProperties": "",
+                    "flags": "1"
+                },
+                {
+                    "resId": "48",
+                    "uid": "1604613561788722:1274090",
+                    "name": "tree",
+                    "sourceFilePath": "",
+                    "additionalProperties": "",
+                    "flags": "0"
+                },
+                {
+                    "resId": "49",
+                    "uid": "1604613824354186:1315101",
+                    "name": "Files\/File78",
+                    "sourceFilePath": "",
+                    "additionalProperties": "",
+                    "flags": "1"
+                },
+                {
+                    "resId": "52",
+                    "uid": "1604615819709249:171016",
+                    "name": "Files\/File85.mesh",
+                    "sourceFilePath": "",
+                    "additionalProperties": "",
+                    "flags": "1"
+                },
+                {
+                    "resId": "53",
+                    "uid": "1604615819716169:171046",
+                    "name": "canopy",
+                    "sourceFilePath": "",
+                    "additionalProperties": "",
+                    "flags": "0"
+                },
+                {
+                    "resId": "54",
+                    "uid": "1604768526172330:2387508",
+                    "name": "Files\/File90.mesh",
+                    "sourceFilePath": "",
+                    "additionalProperties": "",
+                    "flags": "1"
+                },
+                {
+                    "resId": "55",
+                    "uid": "1604768526184277:2387524",
+                    "name": "Files\/File92.jpg",
+                    "sourceFilePath": "",
+                    "additionalProperties": "",
+                    "flags": "1"
+                },
+                {
+                    "resId": "56",
+                    "uid": "1604768526193766:2387536",
+                    "name": "Files\/File94.jpg",
+                    "sourceFilePath": "",
+                    "additionalProperties": "",
+                    "flags": "1"
+                },
+                {
+                    "resId": "58",
+                    "uid": "1604768526208095:2387564",
+                    "name": "Files\/File97",
+                    "sourceFilePath": "",
+                    "additionalProperties": "",
+                    "flags": "1"
+                },
+                {
+                    "resId": "59",
+                    "uid": "1604769007144411:2489761",
+                    "name": "WaterPrefab",
+                    "sourceFilePath": "",
+                    "additionalProperties": "",
+                    "flags": "0"
+                },
+                {
+                    "resId": "60",
+                    "uid": "1604865918782576:839957",
+                    "name": "Files\/File104.mesh",
+                    "sourceFilePath": "",
+                    "additionalProperties": "",
+                    "flags": "1"
+                },
+                {
+                    "resId": "61",
+                    "uid": "1604942988515028:2184864",
+                    "name": "Files\/File106.js",
+                    "sourceFilePath": "",
+                    "additionalProperties": "",
+                    "flags": "1"
+                },
+                {
+                    "resId": "62",
+                    "uid": "1605186421206016:1813245",
+                    "name": "Files\/File108.js",
+                    "sourceFilePath": "",
+                    "additionalProperties": "",
+                    "flags": "1"
+                },
+                {
+                    "resId": "63",
+                    "uid": "1605213822055208:263964",
+                    "name": "Files\/File109.js",
+                    "sourceFilePath": "",
+                    "additionalProperties": "",
+                    "flags": "1"
+                },
+                {
+                    "resId": "65",
+                    "uid": "1605457220955656:46547",
+                    "name": "Files\/File111.js",
+                    "sourceFilePath": "",
+                    "additionalProperties": "",
+                    "flags": "1"
+                }
+            ],
+            "MaterialUpdateManager": {
+                "unrecognizedMaterials": ""
+            }
+        },
+        "InspectorComponent": {
+            "Component": {
+                "EyeColorVisual": {
+                    "uidData": "",
+                    "generalData": ""
+                },
+                "FaceStretchVisual": {
+                    "uidsToFeatureNamesWithIntensity": ""
+                },
+                "ScreenTransform": {
+                    "uidData": "",
+                    "generalData": ""
+                }
+            }
+        },
+        "RenderOrderComponent": {
+            "autoRenderOrder": {
+                "0": "1517446348227994:84813",
+                "1": "1517446348228144:84822",
+                "2": "1528843813151434:5126",
+                "3": "1604153976598282:12138",
+                "4": "1604154240063793:50242",
+                "5": "1604600385247646:16779",
+                "6": "1604600415125618:21405",
+                "7": "1604600446991452:26048",
+                "8": "1604613566967015:1276890",
+                "9": "1604613611468308:1285001",
+                "10": "1604615043798288:42078",
+                "11": "1604615825247041:174014",
+                "12": "1604615825247537:174018",
+                "13": "1604761032005453:1508449",
+                "14": "1604761032005755:1508451",
+                "15": "1604761032609401:1509709",
+                "16": "1604761032609745:1509711",
+                "17": "1604767074019118:2143892",
+                "18": "1604768526223130:2387579",
+                "19": "1604768526223415:2387581",
+                "20": "1604942828609716:2156299",
+                "21": "1604942828610137:2156301",
+                "22": "1604942842440565:2159430",
+                "23": "1604942842441024:2159432",
+                "24": "1604942970661988:2181296",
+                "25": "1605184657652792:1386742",
+                "26": "1605187382768115:1980001",
+                "27": "1605213695504359:237267"
+            }
+        },
+        "LayerComponent": {
+            "nextLayerId": "3",
+            "showOrthographicLayer": "false",
+            "layersInfo": [
+                {
+                    "layerId": "0",
+                    "layerName": "Default Layer",
+                    "layerMask": "1",
+                    "colorCode": "20"
+                },
+                {
+                    "layerId": "1",
+                    "layerName": "Orthographic Layer",
+                    "layerMask": "1048576",
+                    "colorCode": "21"
+                },
+                {
+                    "layerId": "2",
+                    "layerName": "WaterTiles",
+                    "layerMask": "2",
+                    "colorCode": "0"
+                }
+            ]
+        },
+        "IFileManager": {
+            "pathes": [
+                {
+                    "k": "3",
+                    "v": "Files\/File3.jpeg"
+                },
+                {
+                    "k": "4",
+                    "v": "Files\/File4.jpeg"
+                },
+                {
+                    "k": "5",
+                    "v": "Files\/File5.jpeg"
+                },
+                {
+                    "k": "6",
+                    "v": "Files\/File6.jpeg"
+                },
+                {
+                    "k": "7",
+                    "v": "Files\/File7.hdr"
+                },
+                {
+                    "k": "18",
+                    "v": "Files\/File18.js"
+                },
+                {
+                    "k": "19",
+                    "v": "Files\/File19.mesh"
+                },
+                {
+                    "k": "20",
+                    "v": "Files\/File20.mesh"
+                },
+                {
+                    "k": "31",
+                    "v": "Files\/File31"
+                },
+                {
+                    "k": "32",
+                    "v": "Files\/File32.lsmat"
+                },
+                {
+                    "k": "38",
+                    "v": "Files\/File38.mesh"
+                },
+                {
+                    "k": "39",
+                    "v": "Files\/File39.mesh"
+                },
+                {
+                    "k": "40",
+                    "v": "Files\/File40.oprfb"
+                },
+                {
+                    "k": "41",
+                    "v": "Files\/File41.obj"
+                },
+                {
+                    "k": "42",
+                    "v": "Files\/File42.oprfb"
+                },
+                {
+                    "k": "46",
+                    "v": "Files\/File46"
+                },
+                {
+                    "k": "47",
+                    "v": "Files\/File47.lsmat"
+                },
+                {
+                    "k": "52",
+                    "v": "Files\/File52.png"
+                },
+                {
+                    "k": "53",
+                    "v": "Files\/File53.png"
+                },
+                {
+                    "k": "58",
+                    "v": "Files\/File58.js"
+                },
+                {
+                    "k": "69",
+                    "v": "Files\/File69"
+                },
+                {
+                    "k": "70",
+                    "v": "Files\/File70.lsmat"
+                },
+                {
+                    "k": "71",
+                    "v": "Files\/File71.png"
+                },
+                {
+                    "k": "72",
+                    "v": "Files\/File72.png"
+                },
+                {
+                    "k": "75",
+                    "v": "Files\/File75.oprfb"
+                },
+                {
+                    "k": "76",
+                    "v": "Files\/File76.obj"
+                },
+                {
+                    "k": "77",
+                    "v": "Files\/File77.oprfb"
+                },
+                {
+                    "k": "78",
+                    "v": "Files\/File78"
+                },
+                {
+                    "k": "79",
+                    "v": "Files\/File79.lsmat"
+                },
+                {
+                    "k": "85",
+                    "v": "Files\/File85.mesh"
+                },
+                {
+                    "k": "86",
+                    "v": "Files\/File86.mesh"
+                },
+                {
+                    "k": "87",
+                    "v": "Files\/File87.oprfb"
+                },
+                {
+                    "k": "88",
+                    "v": "Files\/File88.obj"
+                },
+                {
+                    "k": "89",
+                    "v": "Files\/File89.oprfb"
+                },
+                {
+                    "k": "90",
+                    "v": "Files\/File90.mesh"
+                },
+                {
+                    "k": "91",
+                    "v": "Files\/File91.mesh"
+                },
+                {
+                    "k": "92",
+                    "v": "Files\/File92.png"
+                },
+                {
+                    "k": "93",
+                    "v": "Files\/File93.png"
+                },
+                {
+                    "k": "94",
+                    "v": "Files\/File94.jpg"
+                },
+                {
+                    "k": "95",
+                    "v": "Files\/File95.jpg"
+                },
+                {
+                    "k": "97",
+                    "v": "Files\/File97"
+                },
+                {
+                    "k": "98",
+                    "v": "Files\/File98.lsmat"
+                },
+                {
+                    "k": "100",
+                    "v": "Files\/File100.oprfb"
+                },
+                {
+                    "k": "101",
+                    "v": "Files\/File101.oprfb"
+                },
+                {
+                    "k": "104",
+                    "v": "Files\/File104.mesh"
+                },
+                {
+                    "k": "105",
+                    "v": "Files\/File105.mesh"
+                },
+                {
+                    "k": "106",
+                    "v": "Files\/File106.js"
+                },
+                {
+                    "k": "108",
+                    "v": "Files\/File108.js"
+                },
+                {
+                    "k": "109",
+                    "v": "Files\/File109.js"
+                },
+                {
+                    "k": "111",
+                    "v": "Files\/File111.js"
+                }
+            ]
+        },
+        "WorldComponent": {
+            "sceneFile": "scene.scn",
+            "sceneType": "binaryScene"
+        }
+    },
+    "controller": {
+        "IResourceController": {
+            "public": {
+                "pathes": [
+                    {
+                        "k": "967",
+                        "v": "Textures\/Lights (Echopark).hdr"
+                    },
+                    {
+                        "k": "968",
+                        "v": "Textures"
+                    },
+                    {
+                        "k": "969",
+                        "v": "Textures\/Render Textures"
+                    },
+                    {
+                        "k": "970",
+                        "v": "Meshes"
+                    },
+                    {
+                        "k": "971",
+                        "v": "Materials"
+                    },
+                    {
+                        "k": "972",
+                        "v": "Scripts"
+                    },
+                    {
+                        "k": "7773",
+                        "v": "WorldObjectController\/WorldObjectController.js"
+                    },
+                    {
+                        "k": "7774",
+                        "v": "WorldObjectController\/touch_collision_cube.mesh"
+                    },
+                    {
+                        "k": "7783",
+                        "v": "WorldObjectController\/touch_collision.lsmat"
+                    },
+                    {
+                        "k": "7791",
+                        "v": "Scripts\/Water"
+                    },
+                    {
+                        "k": "7795",
+                        "v": "Meshes\/Water"
+                    },
+                    {
+                        "k": "7796",
+                        "v": "Meshes\/Water\/water.obj"
+                    },
+                    {
+                        "k": "7800",
+                        "v": "Materials\/Water.lsmat"
+                    },
+                    {
+                        "k": "7802",
+                        "v": "Textures\/Water"
+                    },
+                    {
+                        "k": "7803",
+                        "v": "Textures\/Water\/LeafTex.png"
+                    },
+                    {
+                        "k": "8710",
+                        "v": "Scripts\/Water\/WaterTilesGenerator.js"
+                    },
+                    {
+                        "k": "8711",
+                        "v": "Prefabs"
+                    },
+                    {
+                        "k": "8717",
+                        "v": "Meshes\/Tree"
+                    },
+                    {
+                        "k": "8720",
+                        "v": "Textures\/Canopy\/CanopyTex.png"
+                    },
+                    {
+                        "k": "8721",
+                        "v": "Materials\/Canopy.lsmat"
+                    },
+                    {
+                        "k": "8722",
+                        "v": "Meshes\/Tree\/tree.obj"
+                    },
+                    {
+                        "k": "8725",
+                        "v": "Materials\/Tree.lsmat"
+                    },
+                    {
+                        "k": "8726",
+                        "v": "Meshes\/Canopy"
+                    },
+                    {
+                        "k": "8728",
+                        "v": "Meshes\/Canopy\/canopy.obj"
+                    },
+                    {
+                        "k": "8729",
+                        "v": "WorldObjectController"
+                    },
+                    {
+                        "k": "8730",
+                        "v": "Textures\/Canopy"
+                    },
+                    {
+                        "k": "8735",
+                        "v": "Bokeh"
+                    },
+                    {
+                        "k": "8738",
+                        "v": "Bokeh\/emitter_1000.mesh"
+                    },
+                    {
+                        "k": "8740",
+                        "v": "Bokeh\/cr_linear_blend.png"
+                    },
+                    {
+                        "k": "8741",
+                        "v": "Bokeh\/fx_bokeh.jpg"
+                    },
+                    {
+                        "k": "8746",
+                        "v": "Bokeh\/Bokeh.lsmat"
+                    },
+                    {
+                        "k": "8747",
+                        "v": "Prefabs\/WaterPrefab.oprfb"
+                    },
+                    {
+                        "k": "8748",
+                        "v": "Scripts\/Animations"
+                    },
+                    {
+                        "k": "8749",
+                        "v": "Scripts\/Animations\/GrowthAnimation.js"
+                    },
+                    {
+                        "k": "8750",
+                        "v": "Scripts\/Animations\/Turntable.js"
+                    },
+                    {
+                        "k": "8751",
+                        "v": "Scripts\/Water\/CopyTransform.js"
+                    },
+                    {
+                        "k": "8752",
+                        "v": "Scripts\/Canopy"
+                    },
+                    {
+                        "k": "8755",
+                        "v": "Scripts\/Canopy\/CanopyScale.js"
+                    }
+                ],
+                "hashes": [
+                    {
+                        "k": "1",
+                        "v": "671afbc1d6810060ccbaac866a91cfa1"
+                    },
+                    {
+                        "k": "2",
+                        "v": "8e599835d0d45c5879eafb1f474469cd"
+                    },
+                    {
+                        "k": "967",
+                        "v": "0cf0e87a54f33218fcf92a12d7f0ede2"
+                    },
+                    {
+                        "k": "973",
+                        "v": "e4e91464e260855578b3b7f6fe73302b"
+                    },
+                    {
+                        "k": "7768",
+                        "v": "ca6a55793555b88df4aca4a7329624e5"
+                    },
+                    {
+                        "k": "7769",
+                        "v": "879cb0642498053c2ba693ec0e360ce7"
+                    },
+                    {
+                        "k": "7770",
+                        "v": "caeea0e0bf0313ac710d99cb41b32f56"
+                    },
+                    {
+                        "k": "7771",
+                        "v": "c423d0672421aae010ca988af5ed0711"
+                    },
+                    {
+                        "k": "7772",
+                        "v": "6a8d7a5fdeeec813b43b1112509e6a74"
+                    },
+                    {
+                        "k": "7773",
+                        "v": "a1cbf58e01401e62bef45e0a17c18b85"
+                    },
+                    {
+                        "k": "7774",
+                        "v": "e9167dc2c6b4be6840fd00390a21b633"
+                    },
+                    {
+                        "k": "7777",
+                        "v": "d6706e60f0ea431467da735296bbc62e"
+                    },
+                    {
+                        "k": "7779",
+                        "v": "821ba9ba366c1ddee522c9757a6683c2"
+                    },
+                    {
+                        "k": "7780",
+                        "v": "83ccdbd156cc30a8439ca510cc9d604c"
+                    },
+                    {
+                        "k": "7781",
+                        "v": "a0c9ec185adcfaf415840e029282116e"
+                    },
+                    {
+                        "k": "7782",
+                        "v": "4649d59d58657e786eebaad58a052d2a"
+                    },
+                    {
+                        "k": "7783",
+                        "v": "f68072596f8c13230a6bfdbd37275d5d"
+                    },
+                    {
+                        "k": "7785",
+                        "v": "82a6ab46171c972585415e081f109dbc"
+                    },
+                    {
+                        "k": "7786",
+                        "v": "1e97aa3bd97b9c4997afa4d72b1470f8"
+                    },
+                    {
+                        "k": "7792",
+                        "v": "e18cbd1a679343c808842b2c5d623aeb"
+                    },
+                    {
+                        "k": "7796",
+                        "v": "c40e0bcbaae2a0b7481f8b356f819f49"
+                    },
+                    {
+                        "k": "7797",
+                        "v": "0a0d7dd9438b7360fce9038000fdad25"
+                    },
+                    {
+                        "k": "7799",
+                        "v": "4dd991dced6afb4aecf3c91c513548a8"
+                    },
+                    {
+                        "k": "7800",
+                        "v": "ad7aaf33c473badb53a9e8613a1dafbe"
+                    },
+                    {
+                        "k": "7801",
+                        "v": "a7abfe180e2595b4860cf413f2719aa2"
+                    },
+                    {
+                        "k": "7803",
+                        "v": "d84111892ff9d3b63d861ec0a230089a"
+                    },
+                    {
+                        "k": "7804",
+                        "v": "621da74e06cc402b895f39376927a9d1"
+                    },
+                    {
+                        "k": "8708",
+                        "v": "4dd991dced6afb4aecf3c91c513548a8"
+                    },
+                    {
+                        "k": "8709",
+                        "v": "c385a6c7305fd948248755ba9ab7da5a"
+                    },
+                    {
+                        "k": "8710",
+                        "v": "d357fce65eca10f09cf7dbe55a5aa1d0"
+                    },
+                    {
+                        "k": "8712",
+                        "v": "d27a92c5e493e81d32ac54cbff1ecb48"
+                    },
+                    {
+                        "k": "8713",
+                        "v": "232f0503e2e4177b46bf3b78431a739b"
+                    },
+                    {
+                        "k": "8714",
+                        "v": "56351c2a66ccbf5920b6901cdce0bb98"
+                    },
+                    {
+                        "k": "8715",
+                        "v": "a6ef0744ead1182be79bb69fc853c61d"
+                    },
+                    {
+                        "k": "8716",
+                        "v": "30966cbf183c98f462ab9ac54ecd8a9b"
+                    },
+                    {
+                        "k": "8720",
+                        "v": "4dd991dced6afb4aecf3c91c513548a8"
+                    },
+                    {
+                        "k": "8721",
+                        "v": "1065d4331e0a24b618f1b5a64981aa87"
+                    },
+                    {
+                        "k": "8722",
+                        "v": "51894c0c7cf406c22a1b5bbe875ca756"
+                    },
+                    {
+                        "k": "8724",
+                        "v": "621da74e06cc402b895f39376927a9d1"
+                    },
+                    {
+                        "k": "8725",
+                        "v": "edb201f11d70db7ac2e428c7876f174e"
+                    },
+                    {
+                        "k": "8727",
+                        "v": "927b85b9e0055ef495e851dc75e5d190"
+                    },
+                    {
+                        "k": "8728",
+                        "v": "c2746807ae6e22508ec4b93727e35610"
+                    },
+                    {
+                        "k": "8734",
+                        "v": "2766c5319490537a21e52dd8cff32b70"
+                    },
+                    {
+                        "k": "8738",
+                        "v": "adc36fff2957674601d705ed729586cf"
+                    },
+                    {
+                        "k": "8740",
+                        "v": "a4351832b6036772e2116d55c7e15da6"
+                    },
+                    {
+                        "k": "8741",
+                        "v": "b7e44d07561a585acdc9612ca4b501eb"
+                    },
+                    {
+                        "k": "8742",
+                        "v": "ba6f5ec2a47b7c2b85a926b7b5a94297"
+                    },
+                    {
+                        "k": "8746",
+                        "v": "1c4aecc7c24841a792decef45750a216"
+                    },
+                    {
+                        "k": "8747",
+                        "v": "1ca08ae25c3803d4f2370485ccfcbd71"
+                    },
+                    {
+                        "k": "8749",
+                        "v": "55c17fe836168c17dab5c69b9bb41b61"
+                    },
+                    {
+                        "k": "8750",
+                        "v": "4a04d53b8e2738d886508369b57042aa"
+                    },
+                    {
+                        "k": "8751",
+                        "v": "19aa217b95f6100dab78d370ecdfb26d"
+                    },
+                    {
+                        "k": "8753",
+                        "v": "59361291686fd7cebf3981836238abbb"
+                    },
+                    {
+                        "k": "8754",
+                        "v": "da3b85a0fd4fff85b457516291cb304f"
+                    },
+                    {
+                        "k": "8755",
+                        "v": "e4c1859b12eaa9597927e74f352d08ee"
+                    }
+                ],
+                "publicState": {
+                    "tree": {
+                        "isFolder": "true",
+                        "lastModified": "2020-11-15T16:10:29",
+                        "name": "Public",
+                        "hash": "f39282fb2bc329d49d1674c65e2b016b",
+                        "children": [
+                            {
+                                "isFolder": "true",
+                                "lastModified": "2020-11-15T23:24:14",
+                                "name": "Textures",
+                                "hash": "5f07a3678e2c5b7b77f569dcbcb591e0",
+                                "children": [
+                                    {
+                                        "isFolder": "false",
+                                        "lastModified": "2020-10-09T06:07:36",
+                                        "name": "Lights (Echopark).hdr",
+                                        "hash": "0cf0e87a54f33218fcf92a12d7f0ede2",
+                                        "children": ""
+                                    },
+                                    {
+                                        "isFolder": "true",
+                                        "lastModified": "2020-11-15T16:10:29",
+                                        "name": "Water",
+                                        "hash": "8888d867b4e4bc9f476d7b8697e5b021",
+                                        "children": [
+                                            {
+                                                "isFolder": "false",
+                                                "lastModified": "2020-10-31T16:23:07",
+                                                "name": "LeafTex.png",
+                                                "hash": "d84111892ff9d3b63d861ec0a230089a",
+                                                "children": ""
+                                            },
+                                            {
+                                                "isFolder": "false",
+                                                "lastModified": "2020-10-31T16:23:23",
+                                                "name": "folder.lock",
+                                                "hash": "d41d8cd98f00b204e9800998ecf8427e",
+                                                "children": ""
+                                            }
+                                        ]
+                                    },
+                                    {
+                                        "isFolder": "true",
+                                        "lastModified": "2020-11-15T16:10:29",
+                                        "name": "Render Textures",
+                                        "hash": "59adb24ef3cdbe0297f05b395827453f",
+                                        "children": [
+                                            {
+                                                "isFolder": "false",
+                                                "lastModified": "2020-10-31T15:19:08",
+                                                "name": "folder.lock",
+                                                "hash": "d41d8cd98f00b204e9800998ecf8427e",
+                                                "children": ""
+                                            }
+                                        ]
+                                    },
+                                    {
+                                        "isFolder": "true",
+                                        "lastModified": "2020-11-15T16:10:29",
+                                        "name": "Canopy",
+                                        "hash": "c057486efb3410e820b23f86ab64deb8",
+                                        "children": [
+                                            {
+                                                "isFolder": "false",
+                                                "lastModified": "2020-11-05T22:43:54",
+                                                "name": "CanopyTex.png",
+                                                "hash": "4dd991dced6afb4aecf3c91c513548a8",
+                                                "children": ""
+                                            },
+                                            {
+                                                "isFolder": "false",
+                                                "lastModified": "2020-11-07T13:33:06",
+                                                "name": "folder.lock",
+                                                "hash": "d41d8cd98f00b204e9800998ecf8427e",
+                                                "children": ""
+                                            }
+                                        ]
+                                    },
+                                    {
+                                        "isFolder": "false",
+                                        "lastModified": "2020-10-31T15:19:00",
+                                        "name": "folder.lock",
+                                        "hash": "d41d8cd98f00b204e9800998ecf8427e",
+                                        "children": ""
+                                    }
+                                ]
+                            },
+                            {
+                                "isFolder": "true",
+                                "lastModified": "2020-11-15T16:10:29",
+                                "name": "Bokeh",
+                                "hash": "66bdf4711dd0f4eaa7dfb3a55282f240",
+                                "children": [
+                                    {
+                                        "isFolder": "false",
+                                        "lastModified": "2020-11-12T14:48:08",
+                                        "name": "fx_bokeh.jpg",
+                                        "hash": "b7e44d07561a585acdc9612ca4b501eb",
+                                        "children": ""
+                                    },
+                                    {
+                                        "isFolder": "false",
+                                        "lastModified": "2020-11-07T18:02:06",
+                                        "name": "emitter_1000.mesh",
+                                        "hash": "adc36fff2957674601d705ed729586cf",
+                                        "children": ""
+                                    },
+                                    {
+                                        "isFolder": "false",
+                                        "lastModified": "2020-11-07T18:02:06",
+                                        "name": "cr_linear_blend.png",
+                                        "hash": "a4351832b6036772e2116d55c7e15da6",
+                                        "children": ""
+                                    },
+                                    {
+                                        "isFolder": "false",
+                                        "lastModified": "2020-11-14T14:12:30",
+                                        "name": "Bokeh.lsmat",
+                                        "hash": "1c4aecc7c24841a792decef45750a216",
+                                        "children": ""
+                                    },
+                                    {
+                                        "isFolder": "false",
+                                        "lastModified": "2020-11-07T18:01:54",
+                                        "name": "folder.lock",
+                                        "hash": "d41d8cd98f00b204e9800998ecf8427e",
+                                        "children": ""
+                                    }
+                                ]
+                            },
+                            {
+                                "isFolder": "true",
+                                "lastModified": "2020-11-19T16:44:46",
+                                "name": "Materials",
+                                "hash": "0b542afece3f5522c86911dbf0347d97",
+                                "children": [
+                                    {
+                                        "isFolder": "false",
+                                        "lastModified": "2020-11-19T16:44:46",
+                                        "name": "Tree.lsmat",
+                                        "hash": "9ac647a834d8a430633d41657bc5dca3",
+                                        "children": ""
+                                    },
+                                    {
+                                        "isFolder": "false",
+                                        "lastModified": "2020-11-19T16:44:46",
+                                        "name": "Water.lsmat",
+                                        "hash": "0e1ed4bd41b9faa711864ebeecdac430",
+                                        "children": ""
+                                    },
+                                    {
+                                        "isFolder": "false",
+                                        "lastModified": "2020-11-19T16:44:46",
+                                        "name": "Canopy.lsmat",
+                                        "hash": "274c97d47e64fc60d4cdd5f83067afdf",
+                                        "children": ""
+                                    },
+                                    {
+                                        "isFolder": "false",
+                                        "lastModified": "2020-10-31T15:19:25",
+                                        "name": "folder.lock",
+                                        "hash": "d41d8cd98f00b204e9800998ecf8427e",
+                                        "children": ""
+                                    }
+                                ]
+                            },
+                            {
+                                "isFolder": "true",
+                                "lastModified": "2020-11-15T16:10:29",
+                                "name": "Prefabs",
+                                "hash": "8191921cffc3cd209cb80d014abdbe52",
+                                "children": [
+                                    {
+                                        "isFolder": "false",
+                                        "lastModified": "2020-11-07T18:10:07",
+                                        "name": "WaterPrefab.oprfb",
+                                        "hash": "1ca08ae25c3803d4f2370485ccfcbd71",
+                                        "children": ""
+                                    },
+                                    {
+                                        "isFolder": "false",
+                                        "lastModified": "2020-11-05T19:20:32",
+                                        "name": "folder.lock",
+                                        "hash": "d41d8cd98f00b204e9800998ecf8427e",
+                                        "children": ""
+                                    }
+                                ]
+                            },
+                            {
+                                "isFolder": "true",
+                                "lastModified": "2020-11-15T16:10:29",
+                                "name": "WorldObjectController",
+                                "hash": "c773454e30b4482295276057f1af4d45",
+                                "children": [
+                                    {
+                                        "isFolder": "false",
+                                        "lastModified": "2020-10-31T15:23:59",
+                                        "name": "touch_collision_cube.mesh",
+                                        "hash": "e9167dc2c6b4be6840fd00390a21b633",
+                                        "children": ""
+                                    },
+                                    {
+                                        "isFolder": "false",
+                                        "lastModified": "2020-11-07T13:32:32",
+                                        "name": "touch_collision.lsmat",
+                                        "hash": "f68072596f8c13230a6bfdbd37275d5d",
+                                        "children": ""
+                                    },
+                                    {
+                                        "isFolder": "false",
+                                        "lastModified": "2020-11-07T17:54:20",
+                                        "name": "WorldObjectController.js",
+                                        "hash": "a1cbf58e01401e62bef45e0a17c18b85",
+                                        "children": ""
+                                    },
+                                    {
+                                        "isFolder": "false",
+                                        "lastModified": "2020-11-07T13:32:24",
+                                        "name": "folder.lock",
+                                        "hash": "d41d8cd98f00b204e9800998ecf8427e",
+                                        "children": ""
+                                    }
+                                ]
+                            },
+                            {
+                                "isFolder": "true",
+                                "lastModified": "2020-11-15T16:10:29",
+                                "name": "Meshes",
+                                "hash": "de074adad7967f0ad372c027cba2d4b3",
+                                "children": [
+                                    {
+                                        "isFolder": "true",
+                                        "lastModified": "2020-11-15T16:10:29",
+                                        "name": "Tree",
+                                        "hash": "d935669c92e7a4b123486fdc0e2fd3b6",
+                                        "children": [
+                                            {
+                                                "isFolder": "false",
+                                                "lastModified": "2020-11-12T13:35:27",
+                                                "name": "tree.obj",
+                                                "hash": "51894c0c7cf406c22a1b5bbe875ca756",
+                                                "children": ""
+                                            },
+                                            {
+                                                "isFolder": "false",
+                                                "lastModified": "2020-11-05T22:14:01",
+                                                "name": "folder.lock",
+                                                "hash": "d41d8cd98f00b204e9800998ecf8427e",
+                                                "children": ""
+                                            }
+                                        ]
+                                    },
+                                    {
+                                        "isFolder": "true",
+                                        "lastModified": "2020-11-15T16:10:29",
+                                        "name": "Water",
+                                        "hash": "1fafceb3680885358baf635e9e18c5c2",
+                                        "children": [
+                                            {
+                                                "isFolder": "false",
+                                                "lastModified": "2020-10-31T18:16:34",
+                                                "name": "water.obj",
+                                                "hash": "c40e0bcbaae2a0b7481f8b356f819f49",
+                                                "children": ""
+                                            },
+                                            {
+                                                "isFolder": "false",
+                                                "lastModified": "2020-10-31T15:49:32",
+                                                "name": "folder.lock",
+                                                "hash": "d41d8cd98f00b204e9800998ecf8427e",
+                                                "children": ""
+                                            }
+                                        ]
+                                    },
+                                    {
+                                        "isFolder": "true",
+                                        "lastModified": "2020-11-15T16:10:29",
+                                        "name": "Canopy",
+                                        "hash": "1f56a18ea74d6862b3e5acfad39bf90f",
+                                        "children": [
+                                            {
+                                                "isFolder": "false",
+                                                "lastModified": "2020-11-09T19:22:55",
+                                                "name": "canopy.obj",
+                                                "hash": "c2746807ae6e22508ec4b93727e35610",
+                                                "children": ""
+                                            },
+                                            {
+                                                "isFolder": "false",
+                                                "lastModified": "2020-11-05T23:20:16",
+                                                "name": "folder.lock",
+                                                "hash": "d41d8cd98f00b204e9800998ecf8427e",
+                                                "children": ""
+                                            }
+                                        ]
+                                    },
+                                    {
+                                        "isFolder": "false",
+                                        "lastModified": "2020-10-31T15:19:21",
+                                        "name": "folder.lock",
+                                        "hash": "d41d8cd98f00b204e9800998ecf8427e",
+                                        "children": ""
+                                    }
+                                ]
+                            },
+                            {
+                                "isFolder": "true",
+                                "lastModified": "2020-11-15T17:23:34",
+                                "name": "Scripts",
+                                "hash": "c520a16a1348b00d2362adbe52a3df94",
+                                "children": [
+                                    {
+                                        "isFolder": "true",
+                                        "lastModified": "2020-11-15T17:20:22",
+                                        "name": "Water",
+                                        "hash": "f0b76f5c98c26c63287cb3be5466a369",
+                                        "children": [
+                                            {
+                                                "isFolder": "false",
+                                                "lastModified": "2020-11-15T17:22:13",
+                                                "name": "WaterTilesGenerator.js",
+                                                "hash": "d357fce65eca10f09cf7dbe55a5aa1d0",
+                                                "children": ""
+                                            },
+                                            {
+                                                "isFolder": "false",
+                                                "lastModified": "2020-11-14T17:26:31",
+                                                "name": "CopyTransform.js",
+                                                "hash": "19aa217b95f6100dab78d370ecdfb26d",
+                                                "children": ""
+                                            },
+                                            {
+                                                "isFolder": "false",
+                                                "lastModified": "2020-10-31T15:26:50",
+                                                "name": "folder.lock",
+                                                "hash": "d41d8cd98f00b204e9800998ecf8427e",
+                                                "children": ""
+                                            }
+                                        ]
+                                    },
+                                    {
+                                        "isFolder": "true",
+                                        "lastModified": "2020-11-15T17:21:02",
+                                        "name": "Canopy",
+                                        "hash": "4800ac8d3e562d022b42332adfba8da0",
+                                        "children": [
+                                            {
+                                                "isFolder": "false",
+                                                "lastModified": "2020-11-15T17:23:24",
+                                                "name": "CanopyScale.js",
+                                                "hash": "e4c1859b12eaa9597927e74f352d08ee",
+                                                "children": ""
+                                            },
+                                            {
+                                                "isFolder": "false",
+                                                "lastModified": "2020-11-15T17:20:13",
+                                                "name": "folder.lock",
+                                                "hash": "d41d8cd98f00b204e9800998ecf8427e",
+                                                "children": ""
+                                            }
+                                        ]
+                                    },
+                                    {
+                                        "isFolder": "true",
+                                        "lastModified": "2020-11-15T16:10:29",
+                                        "name": "Animations",
+                                        "hash": "34449ee699b0e16ff7ccf6af32e342a8",
+                                        "children": [
+                                            {
+                                                "isFolder": "false",
+                                                "lastModified": "2020-11-14T17:36:28",
+                                                "name": "Turntable.js",
+                                                "hash": "4a04d53b8e2738d886508369b57042aa",
+                                                "children": ""
+                                            },
+                                            {
+                                                "isFolder": "false",
+                                                "lastModified": "2020-11-12T14:50:47",
+                                                "name": "GrowthAnimation.js",
+                                                "hash": "55c17fe836168c17dab5c69b9bb41b61",
+                                                "children": ""
+                                            },
+                                            {
+                                                "isFolder": "false",
+                                                "lastModified": "2020-11-09T18:29:43",
+                                                "name": "folder.lock",
+                                                "hash": "d41d8cd98f00b204e9800998ecf8427e",
+                                                "children": ""
+                                            }
+                                        ]
+                                    },
+                                    {
+                                        "isFolder": "false",
+                                        "lastModified": "2020-10-31T15:19:28",
+                                        "name": "folder.lock",
+                                        "hash": "d41d8cd98f00b204e9800998ecf8427e",
+                                        "children": ""
+                                    }
+                                ]
+                            },
+                            {
+                                "isFolder": "false",
+                                "lastModified": "2020-10-09T06:06:49",
+                                "name": "folder.lock",
+                                "hash": "d41d8cd98f00b204e9800998ecf8427e",
+                                "children": ""
+                            }
+                        ]
+                    }
+                },
+                "complexResources": ""
+            },
+            "tree": {
+                "name": "",
+                "type": "0",
+                "subtype": "-1",
+                "resourceId": "-1",
+                "dependency": "0",
+                "uid": "-1:-1",
+                "fileId": "18446744073709551615",
+                "originalId": "18446744073709551615",
+                "publicId": "18446744073709551615",
+                "source": "",
+                "additional": "",
+                "resources": [
+                    {
+                        "name": "Textures",
+                        "type": "0",
+                        "subtype": "-1",
+                        "resourceId": "-1",
+                        "dependency": "0",
+                        "uid": "-1:-1",
+                        "fileId": "18446744073709551615",
+                        "originalId": "18446744073709551615",
+                        "publicId": "968",
+                        "source": "",
+                        "additional": "",
+                        "resources": [
+                            {
+                                "name": "Lights (Echopark)",
+                                "type": "9",
+                                "subtype": "-1",
+                                "resourceId": "-1",
+                                "dependency": "2",
+                                "uid": "-1:-1",
+                                "fileId": "7",
+                                "originalId": "18446744073709551615",
+                                "publicId": "967",
+                                "source": "",
+                                "additional": "",
+                                "resources": [
+                                    {
+                                        "name": "Diff",
+                                        "type": "1",
+                                        "subtype": "9",
+                                        "resourceId": "10",
+                                        "dependency": "1",
+                                        "uid": "1588296316843646:534374",
+                                        "fileId": "3",
+                                        "originalId": "4",
+                                        "publicId": "18446744073709551615",
+                                        "source": "",
+                                        "additional": ""
+                                    },
+                                    {
+                                        "name": "Specular",
+                                        "type": "1",
+                                        "subtype": "9",
+                                        "resourceId": "11",
+                                        "dependency": "1",
+                                        "uid": "1588296316857901:534385",
+                                        "fileId": "5",
+                                        "originalId": "6",
+                                        "publicId": "18446744073709551615",
+                                        "source": "",
+                                        "additional": ""
+                                    }
+                                ]
+                            },
+                            {
+                                "name": "Water",
+                                "type": "0",
+                                "subtype": "-1",
+                                "resourceId": "-1",
+                                "dependency": "0",
+                                "uid": "-1:-1",
+                                "fileId": "18446744073709551615",
+                                "originalId": "18446744073709551615",
+                                "publicId": "7802",
+                                "source": "",
+                                "additional": "",
+                                "resources": [
+                                    {
+                                        "name": "LeafTex",
+                                        "type": "1",
+                                        "subtype": "9",
+                                        "resourceId": "36",
+                                        "dependency": "0",
+                                        "uid": "1604157822159505:586842",
+                                        "fileId": "52",
+                                        "originalId": "53",
+                                        "publicId": "7803",
+                                        "source": "\/Users\/gsmac31\/Desktop\/Lens Fest Tutorial Project\/Photoshop\/Blossom.png",
+                                        "additional": ""
+                                    }
+                                ]
+                            },
+                            {
+                                "name": "Canopy",
+                                "type": "0",
+                                "subtype": "-1",
+                                "resourceId": "-1",
+                                "dependency": "0",
+                                "uid": "-1:-1",
+                                "fileId": "18446744073709551615",
+                                "originalId": "18446744073709551615",
+                                "publicId": "8730",
+                                "source": "",
+                                "additional": "",
+                                "resources": [
+                                    {
+                                        "name": "CanopyTex",
+                                        "type": "1",
+                                        "subtype": "9",
+                                        "resourceId": "46",
+                                        "dependency": "0",
+                                        "uid": "1604612634864582:1161119",
+                                        "fileId": "71",
+                                        "originalId": "72",
+                                        "publicId": "8720",
+                                        "source": "\/private\/var\/folders\/by\/0dhhk3j13j560jxj8p3x4rzr0000gn\/T\/Lens Studio-UAWycm\/\/system\/\/emergencyFiles\/emergencyJpg.jpg",
+                                        "additional": ""
+                                    }
+                                ]
+                            },
+                            {
+                                "name": "Render Textures",
+                                "type": "0",
+                                "subtype": "-1",
+                                "resourceId": "-1",
+                                "dependency": "0",
+                                "uid": "-1:-1",
+                                "fileId": "18446744073709551615",
+                                "originalId": "18446744073709551615",
+                                "publicId": "969",
+                                "source": "",
+                                "additional": "",
+                                "resources": [
+                                    {
+                                        "name": "Render Target",
+                                        "type": "1",
+                                        "subtype": "1",
+                                        "resourceId": "1",
+                                        "dependency": "0",
+                                        "uid": "1:1",
+                                        "fileId": "18446744073709551615",
+                                        "originalId": "18446744073709551615",
+                                        "publicId": "18446744073709551615",
+                                        "source": "",
+                                        "additional": {
+                                            "RenderTargetRole": "1"
+                                        }
+                                    },
+                                    {
+                                        "name": "Device Camera Texture",
+                                        "type": "1",
+                                        "subtype": "3",
+                                        "resourceId": "2",
+                                        "dependency": "0",
+                                        "uid": "2:2",
+                                        "fileId": "18446744073709551615",
+                                        "originalId": "18446744073709551615",
+                                        "publicId": "18446744073709551615",
+                                        "source": "",
+                                        "additional": ""
+                                    },
+                                    {
+                                        "name": "Reflection Target",
+                                        "type": "1",
+                                        "subtype": "1",
+                                        "resourceId": "34",
+                                        "dependency": "0",
+                                        "uid": "1604156283634209:60340",
+                                        "fileId": "18446744073709551615",
+                                        "originalId": "18446744073709551615",
+                                        "publicId": "18446744073709551615",
+                                        "source": "",
+                                        "additional": ""
+                                    }
+                                ]
+                            }
+                        ]
+                    },
+                    {
+                        "name": "Meshes",
+                        "type": "0",
+                        "subtype": "-1",
+                        "resourceId": "-1",
+                        "dependency": "0",
+                        "uid": "-1:-1",
+                        "fileId": "18446744073709551615",
+                        "originalId": "18446744073709551615",
+                        "publicId": "970",
+                        "source": "",
+                        "additional": "",
+                        "resources": [
+                            {
+                                "name": "Water",
+                                "type": "0",
+                                "subtype": "-1",
+                                "resourceId": "-1",
+                                "dependency": "0",
+                                "uid": "-1:-1",
+                                "fileId": "18446744073709551615",
+                                "originalId": "18446744073709551615",
+                                "publicId": "7795",
+                                "source": "",
+                                "additional": "",
+                                "resources": [
+                                    {
+                                        "name": "water",
+                                        "type": "18",
+                                        "subtype": "-1",
+                                        "resourceId": "-1",
+                                        "dependency": "2",
+                                        "uid": "-1:-1",
+                                        "fileId": "41",
+                                        "originalId": "18446744073709551615",
+                                        "publicId": "7796",
+                                        "source": "\/Users\/gsmac31\/Desktop\/Lens Fest Tutorial Project\/Houdini\/Exports\/Water\/water.obj",
+                                        "additional": {
+                                            "materialMapping": ""
+                                        },
+                                        "resources": [
+                                            {
+                                                "name": "Meshes",
+                                                "type": "0",
+                                                "subtype": "-1",
+                                                "resourceId": "-1",
+                                                "dependency": "1",
+                                                "uid": "-1:-1",
+                                                "fileId": "18446744073709551615",
+                                                "originalId": "18446744073709551615",
+                                                "publicId": "18446744073709551615",
+                                                "source": "",
+                                                "additional": "",
+                                                "resources": [
+                                                    {
+                                                        "name": "Resource",
+                                                        "type": "3",
+                                                        "subtype": "0",
+                                                        "resourceId": "29",
+                                                        "dependency": "1",
+                                                        "uid": "1604155787283981:245272",
+                                                        "fileId": "38",
+                                                        "originalId": "39",
+                                                        "publicId": "18446744073709551615",
+                                                        "source": "\/private\/var\/folders\/by\/0dhhk3j13j560jxj8p3x4rzr0000gn\/T\/Lens Studio-EHGHOS\/\/system\/\/emergencyFiles\/emergencyMesh.mesh",
+                                                        "additional": ""
+                                                    }
+                                                ]
+                                            },
+                                            {
+                                                "name": "Animations",
+                                                "type": "0",
+                                                "subtype": "-1",
+                                                "resourceId": "-1",
+                                                "dependency": "1",
+                                                "uid": "-1:-1",
+                                                "fileId": "18446744073709551615",
+                                                "originalId": "18446744073709551615",
+                                                "publicId": "18446744073709551615",
+                                                "source": "",
+                                                "additional": "",
+                                                "resources": ""
+                                            },
+                                            {
+                                                "name": "water",
+                                                "type": "12",
+                                                "subtype": "-1",
+                                                "resourceId": "30",
+                                                "dependency": "1",
+                                                "uid": "1604155787290942:245298",
+                                                "fileId": "40",
+                                                "originalId": "42",
+                                                "publicId": "18446744073709551615",
+                                                "source": "",
+                                                "additional": ""
+                                            }
+                                        ]
+                                    }
+                                ]
+                            },
+                            {
+                                "name": "Tree",
+                                "type": "0",
+                                "subtype": "-1",
+                                "resourceId": "-1",
+                                "dependency": "0",
+                                "uid": "-1:-1",
+                                "fileId": "18446744073709551615",
+                                "originalId": "18446744073709551615",
+                                "publicId": "8717",
+                                "source": "",
+                                "additional": "",
+                                "resources": [
+                                    {
+                                        "name": "tree",
+                                        "type": "18",
+                                        "subtype": "-1",
+                                        "resourceId": "-1",
+                                        "dependency": "2",
+                                        "uid": "-1:-1",
+                                        "fileId": "76",
+                                        "originalId": "18446744073709551615",
+                                        "publicId": "8722",
+                                        "source": "\/Users\/gsmac31\/Desktop\/Lens Fest Tutorial Project\/Houdini\/Exports\/Tree\/tree_02.obj",
+                                        "additional": {
+                                            "materialMapping": ""
+                                        },
+                                        "resources": [
+                                            {
+                                                "name": "Meshes",
+                                                "type": "0",
+                                                "subtype": "-1",
+                                                "resourceId": "-1",
+                                                "dependency": "1",
+                                                "uid": "-1:-1",
+                                                "fileId": "18446744073709551615",
+                                                "originalId": "18446744073709551615",
+                                                "publicId": "18446744073709551615",
+                                                "source": "",
+                                                "additional": "",
+                                                "resources": [
+                                                    {
+                                                        "name": "Resource",
+                                                        "type": "3",
+                                                        "subtype": "0",
+                                                        "resourceId": "60",
+                                                        "dependency": "1",
+                                                        "uid": "1604865918782576:839957",
+                                                        "fileId": "104",
+                                                        "originalId": "105",
+                                                        "publicId": "18446744073709551615",
+                                                        "source": "\/private\/var\/folders\/by\/0dhhk3j13j560jxj8p3x4rzr0000gn\/T\/Lens Studio-IZpfWn\/\/system\/\/emergencyFiles\/emergencyMesh.mesh",
+                                                        "additional": ""
+                                                    }
+                                                ]
+                                            },
+                                            {
+                                                "name": "Animations",
+                                                "type": "0",
+                                                "subtype": "-1",
+                                                "resourceId": "-1",
+                                                "dependency": "1",
+                                                "uid": "-1:-1",
+                                                "fileId": "18446744073709551615",
+                                                "originalId": "18446744073709551615",
+                                                "publicId": "18446744073709551615",
+                                                "source": "",
+                                                "additional": "",
+                                                "resources": ""
+                                            },
+                                            {
+                                                "name": "tree",
+                                                "type": "12",
+                                                "subtype": "-1",
+                                                "resourceId": "48",
+                                                "dependency": "1",
+                                                "uid": "1604613561788722:1274090",
+                                                "fileId": "75",
+                                                "originalId": "77",
+                                                "publicId": "18446744073709551615",
+                                                "source": "",
+                                                "additional": ""
+                                            }
+                                        ]
+                                    }
+                                ]
+                            },
+                            {
+                                "name": "Canopy",
+                                "type": "0",
+                                "subtype": "-1",
+                                "resourceId": "-1",
+                                "dependency": "0",
+                                "uid": "-1:-1",
+                                "fileId": "18446744073709551615",
+                                "originalId": "18446744073709551615",
+                                "publicId": "8726",
+                                "source": "",
+                                "additional": "",
+                                "resources": [
+                                    {
+                                        "name": "canopy",
+                                        "type": "18",
+                                        "subtype": "-1",
+                                        "resourceId": "-1",
+                                        "dependency": "2",
+                                        "uid": "-1:-1",
+                                        "fileId": "88",
+                                        "originalId": "18446744073709551615",
+                                        "publicId": "8728",
+                                        "source": "\/Users\/gsmac31\/Desktop\/Lens Fest Tutorial Project\/Houdini\/Exports\/Canopy\/canopy.obj",
+                                        "additional": {
+                                            "materialMapping": ""
+                                        },
+                                        "resources": [
+                                            {
+                                                "name": "Meshes",
+                                                "type": "0",
+                                                "subtype": "-1",
+                                                "resourceId": "-1",
+                                                "dependency": "1",
+                                                "uid": "-1:-1",
+                                                "fileId": "18446744073709551615",
+                                                "originalId": "18446744073709551615",
+                                                "publicId": "18446744073709551615",
+                                                "source": "",
+                                                "additional": "",
+                                                "resources": [
+                                                    {
+                                                        "name": "Resource",
+                                                        "type": "3",
+                                                        "subtype": "0",
+                                                        "resourceId": "52",
+                                                        "dependency": "1",
+                                                        "uid": "1604615819709249:171016",
+                                                        "fileId": "85",
+                                                        "originalId": "86",
+                                                        "publicId": "18446744073709551615",
+                                                        "source": "\/private\/var\/folders\/by\/0dhhk3j13j560jxj8p3x4rzr0000gn\/T\/Lens Studio-FhsMPf\/\/system\/\/emergencyFiles\/emergencyMesh.mesh",
+                                                        "additional": ""
+                                                    }
+                                                ]
+                                            },
+                                            {
+                                                "name": "Animations",
+                                                "type": "0",
+                                                "subtype": "-1",
+                                                "resourceId": "-1",
+                                                "dependency": "1",
+                                                "uid": "-1:-1",
+                                                "fileId": "18446744073709551615",
+                                                "originalId": "18446744073709551615",
+                                                "publicId": "18446744073709551615",
+                                                "source": "",
+                                                "additional": "",
+                                                "resources": ""
+                                            },
+                                            {
+                                                "name": "canopy",
+                                                "type": "12",
+                                                "subtype": "-1",
+                                                "resourceId": "53",
+                                                "dependency": "1",
+                                                "uid": "1604615819716169:171046",
+                                                "fileId": "87",
+                                                "originalId": "89",
+                                                "publicId": "18446744073709551615",
+                                                "source": "",
+                                                "additional": ""
+                                            }
+                                        ]
+                                    }
+                                ]
+                            }
+                        ]
+                    },
+                    {
+                        "name": "Scripts",
+                        "type": "0",
+                        "subtype": "-1",
+                        "resourceId": "-1",
+                        "dependency": "0",
+                        "uid": "-1:-1",
+                        "fileId": "18446744073709551615",
+                        "originalId": "18446744073709551615",
+                        "publicId": "972",
+                        "source": "",
+                        "additional": "",
+                        "resources": [
+                            {
+                                "name": "Water",
+                                "type": "0",
+                                "subtype": "-1",
+                                "resourceId": "-1",
+                                "dependency": "0",
+                                "uid": "-1:-1",
+                                "fileId": "18446744073709551615",
+                                "originalId": "18446744073709551615",
+                                "publicId": "7791",
+                                "source": "",
+                                "additional": "",
+                                "resources": [
+                                    {
+                                        "name": "WaterTilesGenerator",
+                                        "type": "4",
+                                        "subtype": "0",
+                                        "resourceId": "39",
+                                        "dependency": "0",
+                                        "uid": "1604600377849278:15459",
+                                        "fileId": "58",
+                                        "originalId": "18446744073709551615",
+                                        "publicId": "8710",
+                                        "source": "\/Users\/gsmac31\/Desktop\/Lens Fest Tutorial Project\/Lens Studio\/v001\/SakuraScene\/Public\/Scripts\/Water\/WaterController.js",
+                                        "additional": ""
+                                    },
+                                    {
+                                        "name": "CopyTransform",
+                                        "type": "4",
+                                        "subtype": "0",
+                                        "resourceId": "63",
+                                        "dependency": "0",
+                                        "uid": "1605213822055208:263964",
+                                        "fileId": "109",
+                                        "originalId": "18446744073709551615",
+                                        "publicId": "8751",
+                                        "source": "\/private\/var\/folders\/by\/0dhhk3j13j560jxj8p3x4rzr0000gn\/T\/Lens Studio-lOLGRl\/\/system\/\/emergencyFiles\/emergencyJs.js",
+                                        "additional": ""
+                                    }
+                                ]
+                            },
+                            {
+                                "name": "Animations",
+                                "type": "0",
+                                "subtype": "-1",
+                                "resourceId": "-1",
+                                "dependency": "0",
+                                "uid": "-1:-1",
+                                "fileId": "18446744073709551615",
+                                "originalId": "18446744073709551615",
+                                "publicId": "8748",
+                                "source": "",
+                                "additional": "",
+                                "resources": [
+                                    {
+                                        "name": "GrowthAnimation",
+                                        "type": "4",
+                                        "subtype": "0",
+                                        "resourceId": "61",
+                                        "dependency": "0",
+                                        "uid": "1604942988515028:2184864",
+                                        "fileId": "106",
+                                        "originalId": "18446744073709551615",
+                                        "publicId": "8749",
+                                        "source": "\/private\/var\/folders\/by\/0dhhk3j13j560jxj8p3x4rzr0000gn\/T\/Lens Studio-UXkTrO\/\/system\/\/emergencyFiles\/emergencyJs.js",
+                                        "additional": ""
+                                    },
+                                    {
+                                        "name": "Turntable",
+                                        "type": "4",
+                                        "subtype": "0",
+                                        "resourceId": "62",
+                                        "dependency": "0",
+                                        "uid": "1605186421206016:1813245",
+                                        "fileId": "108",
+                                        "originalId": "18446744073709551615",
+                                        "publicId": "8750",
+                                        "source": "\/private\/var\/folders\/by\/0dhhk3j13j560jxj8p3x4rzr0000gn\/T\/Lens Studio-kKdlUz\/\/system\/\/emergencyFiles\/emergencyJs.js",
+                                        "additional": ""
+                                    }
+                                ]
+                            },
+                            {
+                                "name": "Canopy",
+                                "type": "0",
+                                "subtype": "-1",
+                                "resourceId": "-1",
+                                "dependency": "0",
+                                "uid": "-1:-1",
+                                "fileId": "18446744073709551615",
+                                "originalId": "18446744073709551615",
+                                "publicId": "8752",
+                                "source": "",
+                                "additional": "",
+                                "resources": [
+                                    {
+                                        "name": "CanopyScale",
+                                        "type": "4",
+                                        "subtype": "0",
+                                        "resourceId": "65",
+                                        "dependency": "0",
+                                        "uid": "1605457220955656:46547",
+                                        "fileId": "111",
+                                        "originalId": "18446744073709551615",
+                                        "publicId": "8755",
+                                        "source": "\/Users\/gsmac31\/Desktop\/Lens Fest Tutorial Project\/Lens Studio\/v001\/SakuraScene\/Public\/Scripts\/Water\/WaterController.js",
+                                        "additional": ""
+                                    }
+                                ]
+                            }
+                        ]
+                    },
+                    {
+                        "name": "Materials",
+                        "type": "0",
+                        "subtype": "-1",
+                        "resourceId": "-1",
+                        "dependency": "0",
+                        "uid": "-1:-1",
+                        "fileId": "18446744073709551615",
+                        "originalId": "18446744073709551615",
+                        "publicId": "971",
+                        "source": "",
+                        "additional": "",
+                        "resources": [
+                            {
+                                "name": "Tree",
+                                "type": "2",
+                                "subtype": "1",
+                                "resourceId": "49",
+                                "dependency": "0",
+                                "uid": "1604613824354186:1315101",
+                                "fileId": "78",
+                                "originalId": "79",
+                                "publicId": "8725",
+                                "source": "",
+                                "additional": ""
+                            },
+                            {
+                                "name": "Canopy",
+                                "type": "2",
+                                "subtype": "1",
+                                "resourceId": "45",
+                                "dependency": "0",
+                                "uid": "1604612634813416:1161065",
+                                "fileId": "69",
+                                "originalId": "70",
+                                "publicId": "8721",
+                                "source": "",
+                                "additional": ""
+                            },
+                            {
+                                "name": "Water",
+                                "type": "2",
+                                "subtype": "1",
+                                "resourceId": "32",
+                                "dependency": "0",
+                                "uid": "1604156283578543:60256",
+                                "fileId": "46",
+                                "originalId": "47",
+                                "publicId": "7800",
+                                "source": "",
+                                "additional": ""
+                            }
+                        ]
+                    },
+                    {
+                        "name": "Prefabs",
+                        "type": "0",
+                        "subtype": "-1",
+                        "resourceId": "-1",
+                        "dependency": "0",
+                        "uid": "-1:-1",
+                        "fileId": "18446744073709551615",
+                        "originalId": "18446744073709551615",
+                        "publicId": "8711",
+                        "source": "",
+                        "additional": "",
+                        "resources": [
+                            {
+                                "name": "WaterPrefab",
+                                "type": "12",
+                                "subtype": "-1",
+                                "resourceId": "59",
+                                "dependency": "0",
+                                "uid": "1604769007144411:2489761",
+                                "fileId": "100",
+                                "originalId": "101",
+                                "publicId": "8747",
+                                "source": "",
+                                "additional": ""
+                            }
+                        ]
+                    },
+                    {
+                        "name": "WorldObjectController",
+                        "type": "0",
+                        "subtype": "-1",
+                        "resourceId": "-1",
+                        "dependency": "0",
+                        "uid": "-1:-1",
+                        "fileId": "18446744073709551615",
+                        "originalId": "18446744073709551615",
+                        "publicId": "8729",
+                        "source": "",
+                        "additional": "",
+                        "resources": [
+                            {
+                                "name": "touch_collision",
+                                "type": "2",
+                                "subtype": "0",
+                                "resourceId": "25",
+                                "dependency": "0",
+                                "uid": "1604154239871775:50028",
+                                "fileId": "31",
+                                "originalId": "32",
+                                "publicId": "7783",
+                                "source": "",
+                                "additional": ""
+                            },
+                            {
+                                "name": "WorldObjectController",
+                                "type": "4",
+                                "subtype": "0",
+                                "resourceId": "18",
+                                "dependency": "0",
+                                "uid": "1604154239784380:49920",
+                                "fileId": "18",
+                                "originalId": "18446744073709551615",
+                                "publicId": "7773",
+                                "source": "\/private\/var\/folders\/by\/0dhhk3j13j560jxj8p3x4rzr0000gn\/T\/Lens Studio-EHGHOS\/\/system\/\/emergencyFiles\/emergencyJs.js",
+                                "additional": ""
+                            },
+                            {
+                                "name": "touch_collision_cube",
+                                "type": "3",
+                                "subtype": "0",
+                                "resourceId": "19",
+                                "dependency": "0",
+                                "uid": "1604154239794916:49936",
+                                "fileId": "19",
+                                "originalId": "20",
+                                "publicId": "7774",
+                                "source": "\/private\/var\/folders\/by\/0dhhk3j13j560jxj8p3x4rzr0000gn\/T\/Lens Studio-EHGHOS\/\/system\/\/emergencyFiles\/emergencyMesh.mesh",
+                                "additional": ""
+                            }
+                        ]
+                    },
+                    {
+                        "name": "Bokeh",
+                        "type": "0",
+                        "subtype": "-1",
+                        "resourceId": "-1",
+                        "dependency": "0",
+                        "uid": "-1:-1",
+                        "fileId": "18446744073709551615",
+                        "originalId": "18446744073709551615",
+                        "publicId": "8735",
+                        "source": "",
+                        "additional": "",
+                        "resources": [
+                            {
+                                "name": "emitter_1000",
+                                "type": "3",
+                                "subtype": "0",
+                                "resourceId": "54",
+                                "dependency": "0",
+                                "uid": "1604768526172330:2387508",
+                                "fileId": "90",
+                                "originalId": "91",
+                                "publicId": "8738",
+                                "source": "\/private\/var\/folders\/by\/0dhhk3j13j560jxj8p3x4rzr0000gn\/T\/Lens Studio-VVhCmP\/\/system\/\/emergencyFiles\/emergencyMesh.mesh",
+                                "additional": ""
+                            },
+                            {
+                                "name": "cr_linear_blend",
+                                "type": "1",
+                                "subtype": "9",
+                                "resourceId": "55",
+                                "dependency": "0",
+                                "uid": "1604768526184277:2387524",
+                                "fileId": "92",
+                                "originalId": "93",
+                                "publicId": "8740",
+                                "source": "\/private\/var\/folders\/by\/0dhhk3j13j560jxj8p3x4rzr0000gn\/T\/Lens Studio-VVhCmP\/\/system\/\/emergencyFiles\/emergencyJpg.jpg",
+                                "additional": ""
+                            },
+                            {
+                                "name": "fx_bokeh",
+                                "type": "1",
+                                "subtype": "9",
+                                "resourceId": "56",
+                                "dependency": "0",
+                                "uid": "1604768526193766:2387536",
+                                "fileId": "94",
+                                "originalId": "95",
+                                "publicId": "8741",
+                                "source": "\/Users\/gsmac31\/Desktop\/Lens Fest Tutorial Project\/Helpers\/Bokeh\/fx_bokeh_lq.jpg",
+                                "additional": ""
+                            },
+                            {
+                                "name": "Bokeh",
+                                "type": "2",
+                                "subtype": "0",
+                                "resourceId": "58",
+                                "dependency": "0",
+                                "uid": "1604768526208095:2387564",
+                                "fileId": "97",
+                                "originalId": "98",
+                                "publicId": "8746",
+                                "source": "",
+                                "additional": ""
+                            }
+                        ]
+                    }
+                ]
+            }
+        },
+        "InspectorController": {
+            "selection": ""
+        },
+        "EffectsController": {
+            "1": "",
+            "2": "",
+            "3": "",
+            "4": "",
+            "5": "",
+            "6": "",
+            "7": "",
+            "8": "",
+            "10": "",
+            "11": "",
+            "12": "",
+            "13": "",
+            "14": "",
+            "15": "",
+            "16": "",
+            "17": "",
+            "18": "",
+            "19": "",
+            "20": "",
+            "22": "",
+            "23": "",
+            "24": "",
+            "25": "",
+            "26": "",
+            "27": "",
+            "28": ""
+        },
+        "ObjectPrefabController": {
+            "state": {
+                "objectToInfo": [
+                    {
+                        "k": "1604600415125618:21405",
+                        "v": {
+                            "prefab": "1604769007144411:2489761",
+                            "isActive": "true",
+                            "mapping": [
+                                {
+                                    "k": "1604153976598282:12138",
+                                    "v": "1604153976598282:12138"
+                                },
+                                {
+                                    "k": "1604163046808926:2062114",
+                                    "v": "1604163046808926:2062114"
+                                },
+                                {
+                                    "k": "1604600415125618:21405",
+                                    "v": "1604600415125618:21405"
+                                }
+                            ]
+                        }
+                    },
+                    {
+                        "k": "1604613566967015:1276890",
+                        "v": {
+                            "prefab": "1604613561788722:1274090",
+                            "isActive": "true",
+                            "mapping": [
+                                {
+                                    "k": "1605121723013321:199948",
+                                    "v": "1604613566967015:1276890"
+                                },
+                                {
+                                    "k": "1605121723013645:199950",
+                                    "v": "1604613566967578:1276894"
+                                },
+                                {
+                                    "k": "1605121723013837:199952",
+                                    "v": "1604613566967825:1276896"
+                                },
+                                {
+                                    "k": "1605184657648559:1386697",
+                                    "v": "1605184641043582:1379270"
+                                },
+                                {
+                                    "k": "1605184657648866:1386699",
+                                    "v": "1605184657652792:1386742"
+                                },
+                                {
+                                    "k": "1605184657649064:1386701",
+                                    "v": "1605184657652950:1386745"
+                                }
+                            ]
+                        }
+                    },
+                    {
+                        "k": "1604615825247041:174014",
+                        "v": {
+                            "prefab": "1604615819716169:171046",
+                            "isActive": "true",
+                            "mapping": [
+                                {
+                                    "k": "1604946200225460:464869",
+                                    "v": "1604615825247041:174014"
+                                },
+                                {
+                                    "k": "1604946200225904:464871",
+                                    "v": "1604615825247537:174018"
+                                },
+                                {
+                                    "k": "1604946200226159:464873",
+                                    "v": "1604615825247850:174020"
+                                }
+                            ]
+                        }
+                    },
+                    {
+                        "k": "1604761032005453:1508449",
+                        "v": {
+                            "prefab": "1604615819716169:171046",
+                            "isActive": "true",
+                            "mapping": [
+                                {
+                                    "k": "1604946200225460:464869",
+                                    "v": "1604761032005453:1508449"
+                                },
+                                {
+                                    "k": "1604946200225904:464871",
+                                    "v": "1604761032005755:1508451"
+                                },
+                                {
+                                    "k": "1604946200226159:464873",
+                                    "v": "1604761032006051:1508453"
+                                }
+                            ]
+                        }
+                    },
+                    {
+                        "k": "1604761032609401:1509709",
+                        "v": {
+                            "prefab": "1604615819716169:171046",
+                            "isActive": "true",
+                            "mapping": [
+                                {
+                                    "k": "1604946200225460:464869",
+                                    "v": "1604761032609401:1509709"
+                                },
+                                {
+                                    "k": "1604946200225904:464871",
+                                    "v": "1604761032609745:1509711"
+                                },
+                                {
+                                    "k": "1604946200226159:464873",
+                                    "v": "1604761032610098:1509717"
+                                }
+                            ]
+                        }
+                    },
+                    {
+                        "k": "1604942828609716:2156299",
+                        "v": {
+                            "prefab": "1604615819716169:171046",
+                            "isActive": "true",
+                            "mapping": [
+                                {
+                                    "k": "1604946200225460:464869",
+                                    "v": "1604942828609716:2156299"
+                                },
+                                {
+                                    "k": "1604946200225904:464871",
+                                    "v": "1604942828610137:2156301"
+                                },
+                                {
+                                    "k": "1604946200226159:464873",
+                                    "v": "1604942828610456:2156303"
+                                }
+                            ]
+                        }
+                    },
+                    {
+                        "k": "1604942842440565:2159430",
+                        "v": {
+                            "prefab": "1604615819716169:171046",
+                            "isActive": "true",
+                            "mapping": [
+                                {
+                                    "k": "1604946200225460:464869",
+                                    "v": "1604942842440565:2159430"
+                                },
+                                {
+                                    "k": "1604946200225904:464871",
+                                    "v": "1604942842441024:2159432"
+                                },
+                                {
+                                    "k": "1604946200226159:464873",
+                                    "v": "1604942842441454:2159434"
+                                }
+                            ]
+                        }
+                    },
+                    {
+                        "k": "1605184627525735:1372211",
+                        "v": {
+                            "prefab": "1604613561788722:1274090",
+                            "isActive": "true",
+                            "mapping": [
+                                {
+                                    "k": "1605121723013321:199948",
+                                    "v": "1605184627525735:1372211"
+                                },
+                                {
+                                    "k": "1605121723013645:199950",
+                                    "v": "1605184627526081:1372213"
+                                },
+                                {
+                                    "k": "1605121723013837:199952",
+                                    "v": "1605184627526280:1372215"
+                                },
+                                {
+                                    "k": "1605184657648559:1386697",
+                                    "v": "1605184641043582:1379270"
+                                },
+                                {
+                                    "k": "1605184657648866:1386699",
+                                    "v": "1605184641044239:1379272"
+                                },
+                                {
+                                    "k": "1605184657649064:1386701",
+                                    "v": "1605184641044448:1379274"
+                                }
+                            ]
+                        }
+                    },
+                    {
+                        "k": "1605184641043582:1379270",
+                        "v": {
+                            "prefab": "1604613561788722:1274090",
+                            "isActive": "true",
+                            "mapping": [
+                                {
+                                    "k": "1605184627525735:1372211",
+                                    "v": "1605184641043582:1379270"
+                                },
+                                {
+                                    "k": "1605184627526081:1372213",
+                                    "v": "1605184641044239:1379272"
+                                },
+                                {
+                                    "k": "1605184627526280:1372215",
+                                    "v": "1605184641044448:1379274"
+                                },
+                                {
+                                    "k": "1605184657648559:1386697",
+                                    "v": "1605184641043582:1379270"
+                                },
+                                {
+                                    "k": "1605184657648866:1386699",
+                                    "v": "1605184641044239:1379272"
+                                },
+                                {
+                                    "k": "1605184657649064:1386701",
+                                    "v": "1605184641044448:1379274"
+                                }
+                            ]
+                        }
+                    }
+                ]
+            },
+            "importInfo": [
+                {
+                    "k": "1604155787290942:245298",
+                    "v": [
+                        {
+                            "k": "",
+                            "v": "1604164597142398:2283698"
+                        },
+                        {
+                            "k": [
+                                "Scene Object"
+                            ],
+                            "v": "1604164597142696:2283700"
+                        },
+                        {
+                            "k": [
+                                "Scene Object",
+                                "Component.RenderMeshVisual"
+                            ],
+                            "v": "1604164597142896:2283702"
+                        }
+                    ]
+                },
+                {
+                    "k": "1604613561788722:1274090",
+                    "v": [
+                        {
+                            "k": "",
+                            "v": "1605184657648559:1386697"
+                        },
+                        {
+                            "k": [
+                                "Scene Object"
+                            ],
+                            "v": "1605184657648866:1386699"
+                        },
+                        {
+                            "k": [
+                                "Scene Object",
+                                "Component.RenderMeshVisual"
+                            ],
+                            "v": "1605184657649064:1386701"
+                        }
+                    ]
+                },
+                {
+                    "k": "1604615819716169:171046",
+                    "v": [
+                        {
+                            "k": "",
+                            "v": "1604946200225460:464869"
+                        },
+                        {
+                            "k": [
+                                "Scene Object"
+                            ],
+                            "v": "1604946200225904:464871"
+                        },
+                        {
+                            "k": [
+                                "Scene Object",
+                                "Component.RenderMeshVisual"
+                            ],
+                            "v": "1604946200226159:464873"
+                        }
+                    ]
+                }
+            ]
+        }
+    }
+}

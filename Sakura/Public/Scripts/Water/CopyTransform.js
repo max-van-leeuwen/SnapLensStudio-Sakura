@@ -1,4 +1,4 @@
-// Max van Leeuwen
+// Max van Leeuwen || maxvanleeuwen.com || twitter: @maksvanleeuwen
 // Match transformations of specified object.
 
 

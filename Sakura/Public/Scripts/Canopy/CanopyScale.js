@@ -1,4 +1,4 @@
-// Max van Leeuwen
+// Max van Leeuwen || maxvanleeuwen.com || twitter: @maksvanleeuwen
 // Sets the right world scale to the canopy material.
 
 

@@ -1,4 +1,4 @@
-// Max van Leeuwen
+// Max van Leeuwen || maxvanleeuwen.com || twitter: @maksvanleeuwen
 // Controls the animation of the 'growth' parameter (0-1) in specified materials.
 
 
@@ -19,7 +19,6 @@
 
 function init(){
 	if(script.animating){
-		global.touchSystem.touchBlocking = true;
 		startAnimations();
 	}
 }

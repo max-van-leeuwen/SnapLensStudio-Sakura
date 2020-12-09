@@ -1,4 +1,4 @@
-// Max van Leeuwen
+// Max van Leeuwen || maxvanleeuwen.com || twitter: @maksvanleeuwen
 // Instance water mesh prefabs in a grid.
 
 

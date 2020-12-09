@@ -3,7 +3,7 @@
     "document_id": "LiCQsMIa5HbQVePzMK72",
     "original_document_id": "frtMagC3HitGmbdp6IAT",
     "version": "26",
-    "lastChanged": "1605801350136",
+    "lastChanged": "1607474582539",
     "preview": "icon.png",
     "videoPreview": "preview.mp4",
     "videoPreviewUpdateTime": "",
@@ -20,7 +20,7 @@
         "lastSavedWith": {
             "type": "Public",
             "major": "3",
-            "minor": "2",
+            "minor": "3",
             "patch": "0",
             "build": "0"
         }
@@ -268,10 +268,6 @@
                     ],
                     [
                         "WorldObjectController",
-                        "WorldObjectController"
-                    ],
-                    [
-                        "WorldObjectController",
                         "touch_collision"
                     ],
                     [
@@ -325,7 +321,7 @@
             ]
         },
         "MetaInfoUIComponent": {
-            "icon_hash": "5b64a5f5db480af2d2e386bdf26961bf",
+            "icon_hash": "9f19b88ce1e9bff873744422b02ae276",
             "icon_path": "icon.png",
             "hints": [
                 ""
@@ -375,6 +371,9 @@
         },
         "Material::UiComponent": {
             "active_graph_asset": "1604156283578543:60256"
+        },
+        "Script::UiComponent": {
+            "active_graph_asset": "-1:-1"
         }
     },
     "model": {
@@ -889,6 +888,14 @@
                 {
                     "k": "111",
                     "v": "Files\/File111.js"
+                },
+                {
+                    "k": "112",
+                    "v": "Files\/File112.png"
+                },
+                {
+                    "k": "113",
+                    "v": "Files\/File113.png"
                 }
             ]
         },
@@ -1149,7 +1156,7 @@
                     },
                     {
                         "k": "7800",
-                        "v": "ad7aaf33c473badb53a9e8613a1dafbe"
+                        "v": "08f573478fecaf147620aaeac5c6d491"
                     },
                     {
                         "k": "7801",
@@ -1173,7 +1180,7 @@
                     },
                     {
                         "k": "8710",
-                        "v": "d357fce65eca10f09cf7dbe55a5aa1d0"
+                        "v": "bea767636f4f566a1cc89bf5439f23fd"
                     },
                     {
                         "k": "8712",
@@ -1201,7 +1208,7 @@
                     },
                     {
                         "k": "8721",
-                        "v": "1065d4331e0a24b618f1b5a64981aa87"
+                        "v": "3563e51fef78e357c801851ee5e7acb2"
                     },
                     {
                         "k": "8722",
@@ -1213,7 +1220,7 @@
                     },
                     {
                         "k": "8725",
-                        "v": "edb201f11d70db7ac2e428c7876f174e"
+                        "v": "90394d1ea92d5054dd34f152aa654cb7"
                     },
                     {
                         "k": "8727",
@@ -1253,15 +1260,15 @@
                     },
                     {
                         "k": "8749",
-                        "v": "55c17fe836168c17dab5c69b9bb41b61"
+                        "v": "8e3f02ca3e33fa9a4092190816802536"
                     },
                     {
                         "k": "8750",
-                        "v": "4a04d53b8e2738d886508369b57042aa"
+                        "v": "38a154ff902242df5c23cbe1f5f8420c"
                     },
                     {
                         "k": "8751",
-                        "v": "19aa217b95f6100dab78d370ecdfb26d"
+                        "v": "6753cd721f9d0a02757ec49963499aa1"
                     },
                     {
                         "k": "8753",
@@ -1273,45 +1280,45 @@
                     },
                     {
                         "k": "8755",
-                        "v": "e4c1859b12eaa9597927e74f352d08ee"
+                        "v": "5e337f65af169727b6943fb426edb85a"
                     }
                 ],
                 "publicState": {
                     "tree": {
                         "isFolder": "true",
-                        "lastModified": "2020-11-15T16:10:29",
+                        "lastModified": "2020-12-09T00:57:13",
                         "name": "Public",
-                        "hash": "f39282fb2bc329d49d1674c65e2b016b",
+                        "hash": "82ead1e4760091749c6abaa0e5cafd54",
                         "children": [
                             {
                                 "isFolder": "true",
-                                "lastModified": "2020-11-15T23:24:14",
+                                "lastModified": "2020-12-09T00:57:13",
                                 "name": "Textures",
                                 "hash": "5f07a3678e2c5b7b77f569dcbcb591e0",
                                 "children": [
                                     {
                                         "isFolder": "false",
-                                        "lastModified": "2020-10-09T06:07:36",
+                                        "lastModified": "2020-12-09T00:57:13",
                                         "name": "Lights (Echopark).hdr",
                                         "hash": "0cf0e87a54f33218fcf92a12d7f0ede2",
                                         "children": ""
                                     },
                                     {
                                         "isFolder": "true",
-                                        "lastModified": "2020-11-15T16:10:29",
+                                        "lastModified": "2020-12-09T00:57:13",
                                         "name": "Water",
                                         "hash": "8888d867b4e4bc9f476d7b8697e5b021",
                                         "children": [
                                             {
                                                 "isFolder": "false",
-                                                "lastModified": "2020-10-31T16:23:07",
+                                                "lastModified": "2020-12-09T00:57:13",
                                                 "name": "LeafTex.png",
                                                 "hash": "d84111892ff9d3b63d861ec0a230089a",
                                                 "children": ""
                                             },
                                             {
                                                 "isFolder": "false",
-                                                "lastModified": "2020-10-31T16:23:23",
+                                                "lastModified": "2020-12-09T00:57:13",
                                                 "name": "folder.lock",
                                                 "hash": "d41d8cd98f00b204e9800998ecf8427e",
                                                 "children": ""
@@ -1320,13 +1327,13 @@
                                     },
                                     {
                                         "isFolder": "true",
-                                        "lastModified": "2020-11-15T16:10:29",
+                                        "lastModified": "2020-12-09T00:57:13",
                                         "name": "Render Textures",
                                         "hash": "59adb24ef3cdbe0297f05b395827453f",
                                         "children": [
                                             {
                                                 "isFolder": "false",
-                                                "lastModified": "2020-10-31T15:19:08",
+                                                "lastModified": "2020-12-09T00:57:13",
                                                 "name": "folder.lock",
                                                 "hash": "d41d8cd98f00b204e9800998ecf8427e",
                                                 "children": ""
@@ -1335,20 +1342,20 @@
                                     },
                                     {
                                         "isFolder": "true",
-                                        "lastModified": "2020-11-15T16:10:29",
+                                        "lastModified": "2020-12-09T00:57:13",
                                         "name": "Canopy",
                                         "hash": "c057486efb3410e820b23f86ab64deb8",
                                         "children": [
                                             {
                                                 "isFolder": "false",
-                                                "lastModified": "2020-11-05T22:43:54",
+                                                "lastModified": "2020-12-09T00:57:13",
                                                 "name": "CanopyTex.png",
                                                 "hash": "4dd991dced6afb4aecf3c91c513548a8",
                                                 "children": ""
                                             },
                                             {
                                                 "isFolder": "false",
-                                                "lastModified": "2020-11-07T13:33:06",
+                                                "lastModified": "2020-12-09T00:57:13",
                                                 "name": "folder.lock",
                                                 "hash": "d41d8cd98f00b204e9800998ecf8427e",
                                                 "children": ""
@@ -1357,7 +1364,7 @@
                                     },
                                     {
                                         "isFolder": "false",
-                                        "lastModified": "2020-10-31T15:19:00",
+                                        "lastModified": "2020-12-09T00:57:13",
                                         "name": "folder.lock",
                                         "hash": "d41d8cd98f00b204e9800998ecf8427e",
                                         "children": ""
@@ -1366,41 +1373,41 @@
                             },
                             {
                                 "isFolder": "true",
-                                "lastModified": "2020-11-15T16:10:29",
+                                "lastModified": "2020-12-09T00:57:13",
                                 "name": "Bokeh",
                                 "hash": "66bdf4711dd0f4eaa7dfb3a55282f240",
                                 "children": [
                                     {
                                         "isFolder": "false",
-                                        "lastModified": "2020-11-12T14:48:08",
+                                        "lastModified": "2020-12-09T00:57:13",
                                         "name": "fx_bokeh.jpg",
                                         "hash": "b7e44d07561a585acdc9612ca4b501eb",
                                         "children": ""
                                     },
                                     {
                                         "isFolder": "false",
-                                        "lastModified": "2020-11-07T18:02:06",
+                                        "lastModified": "2020-12-09T00:57:13",
                                         "name": "emitter_1000.mesh",
                                         "hash": "adc36fff2957674601d705ed729586cf",
                                         "children": ""
                                     },
                                     {
                                         "isFolder": "false",
-                                        "lastModified": "2020-11-07T18:02:06",
+                                        "lastModified": "2020-12-09T00:57:13",
                                         "name": "cr_linear_blend.png",
                                         "hash": "a4351832b6036772e2116d55c7e15da6",
                                         "children": ""
                                     },
                                     {
                                         "isFolder": "false",
-                                        "lastModified": "2020-11-14T14:12:30",
+                                        "lastModified": "2020-12-09T00:57:13",
                                         "name": "Bokeh.lsmat",
                                         "hash": "1c4aecc7c24841a792decef45750a216",
                                         "children": ""
                                     },
                                     {
                                         "isFolder": "false",
-                                        "lastModified": "2020-11-07T18:01:54",
+                                        "lastModified": "2020-12-09T00:57:13",
                                         "name": "folder.lock",
                                         "hash": "d41d8cd98f00b204e9800998ecf8427e",
                                         "children": ""
@@ -1409,34 +1416,34 @@
                             },
                             {
                                 "isFolder": "true",
-                                "lastModified": "2020-11-19T16:44:46",
+                                "lastModified": "2020-12-09T01:35:30",
                                 "name": "Materials",
-                                "hash": "0b542afece3f5522c86911dbf0347d97",
+                                "hash": "bb5d7283071af7b669cfbc8bf0843e2a",
                                 "children": [
                                     {
                                         "isFolder": "false",
-                                        "lastModified": "2020-11-19T16:44:46",
+                                        "lastModified": "2020-12-09T01:35:30",
                                         "name": "Tree.lsmat",
-                                        "hash": "9ac647a834d8a430633d41657bc5dca3",
+                                        "hash": "c73af726ddbf1623443a7122eda96f54",
                                         "children": ""
                                     },
                                     {
                                         "isFolder": "false",
-                                        "lastModified": "2020-11-19T16:44:46",
+                                        "lastModified": "2020-12-09T01:35:30",
                                         "name": "Water.lsmat",
-                                        "hash": "0e1ed4bd41b9faa711864ebeecdac430",
+                                        "hash": "416762f80e478eccca4d1f5d2ae8fcc5",
                                         "children": ""
                                     },
                                     {
                                         "isFolder": "false",
-                                        "lastModified": "2020-11-19T16:44:46",
+                                        "lastModified": "2020-12-09T01:35:30",
                                         "name": "Canopy.lsmat",
-                                        "hash": "274c97d47e64fc60d4cdd5f83067afdf",
+                                        "hash": "819beccb023c5217b3cd91802d6143a5",
                                         "children": ""
                                     },
                                     {
                                         "isFolder": "false",
-                                        "lastModified": "2020-10-31T15:19:25",
+                                        "lastModified": "2020-12-09T00:57:13",
                                         "name": "folder.lock",
                                         "hash": "d41d8cd98f00b204e9800998ecf8427e",
                                         "children": ""
@@ -1445,20 +1452,20 @@
                             },
                             {
                                 "isFolder": "true",
-                                "lastModified": "2020-11-15T16:10:29",
+                                "lastModified": "2020-12-09T00:57:13",
                                 "name": "Prefabs",
                                 "hash": "8191921cffc3cd209cb80d014abdbe52",
                                 "children": [
                                     {
                                         "isFolder": "false",
-                                        "lastModified": "2020-11-07T18:10:07",
+                                        "lastModified": "2020-12-09T00:57:13",
                                         "name": "WaterPrefab.oprfb",
                                         "hash": "1ca08ae25c3803d4f2370485ccfcbd71",
                                         "children": ""
                                     },
                                     {
                                         "isFolder": "false",
-                                        "lastModified": "2020-11-05T19:20:32",
+                                        "lastModified": "2020-12-09T00:57:13",
                                         "name": "folder.lock",
                                         "hash": "d41d8cd98f00b204e9800998ecf8427e",
                                         "children": ""
@@ -1467,34 +1474,34 @@
                             },
                             {
                                 "isFolder": "true",
-                                "lastModified": "2020-11-15T16:10:29",
+                                "lastModified": "2020-12-09T00:57:13",
                                 "name": "WorldObjectController",
                                 "hash": "c773454e30b4482295276057f1af4d45",
                                 "children": [
                                     {
                                         "isFolder": "false",
-                                        "lastModified": "2020-10-31T15:23:59",
+                                        "lastModified": "2020-12-09T00:57:13",
                                         "name": "touch_collision_cube.mesh",
                                         "hash": "e9167dc2c6b4be6840fd00390a21b633",
                                         "children": ""
                                     },
                                     {
                                         "isFolder": "false",
-                                        "lastModified": "2020-11-07T13:32:32",
+                                        "lastModified": "2020-12-09T00:57:13",
                                         "name": "touch_collision.lsmat",
                                         "hash": "f68072596f8c13230a6bfdbd37275d5d",
                                         "children": ""
                                     },
                                     {
                                         "isFolder": "false",
-                                        "lastModified": "2020-11-07T17:54:20",
+                                        "lastModified": "2020-12-09T00:57:13",
                                         "name": "WorldObjectController.js",
                                         "hash": "a1cbf58e01401e62bef45e0a17c18b85",
                                         "children": ""
                                     },
                                     {
                                         "isFolder": "false",
-                                        "lastModified": "2020-11-07T13:32:24",
+                                        "lastModified": "2020-12-09T00:57:13",
                                         "name": "folder.lock",
                                         "hash": "d41d8cd98f00b204e9800998ecf8427e",
                                         "children": ""
@@ -1503,26 +1510,26 @@
                             },
                             {
                                 "isFolder": "true",
-                                "lastModified": "2020-11-15T16:10:29",
+                                "lastModified": "2020-12-09T00:57:13",
                                 "name": "Meshes",
                                 "hash": "de074adad7967f0ad372c027cba2d4b3",
                                 "children": [
                                     {
                                         "isFolder": "true",
-                                        "lastModified": "2020-11-15T16:10:29",
+                                        "lastModified": "2020-12-09T00:57:13",
                                         "name": "Tree",
                                         "hash": "d935669c92e7a4b123486fdc0e2fd3b6",
                                         "children": [
                                             {
                                                 "isFolder": "false",
-                                                "lastModified": "2020-11-12T13:35:27",
+                                                "lastModified": "2020-12-09T00:57:13",
                                                 "name": "tree.obj",
                                                 "hash": "51894c0c7cf406c22a1b5bbe875ca756",
                                                 "children": ""
                                             },
                                             {
                                                 "isFolder": "false",
-                                                "lastModified": "2020-11-05T22:14:01",
+                                                "lastModified": "2020-12-09T00:57:13",
                                                 "name": "folder.lock",
                                                 "hash": "d41d8cd98f00b204e9800998ecf8427e",
                                                 "children": ""
@@ -1531,20 +1538,20 @@
                                     },
                                     {
                                         "isFolder": "true",
-                                        "lastModified": "2020-11-15T16:10:29",
+                                        "lastModified": "2020-12-09T00:57:13",
                                         "name": "Water",
                                         "hash": "1fafceb3680885358baf635e9e18c5c2",
                                         "children": [
                                             {
                                                 "isFolder": "false",
-                                                "lastModified": "2020-10-31T18:16:34",
+                                                "lastModified": "2020-12-09T00:57:13",
                                                 "name": "water.obj",
                                                 "hash": "c40e0bcbaae2a0b7481f8b356f819f49",
                                                 "children": ""
                                             },
                                             {
                                                 "isFolder": "false",
-                                                "lastModified": "2020-10-31T15:49:32",
+                                                "lastModified": "2020-12-09T00:57:13",
                                                 "name": "folder.lock",
                                                 "hash": "d41d8cd98f00b204e9800998ecf8427e",
                                                 "children": ""
@@ -1553,20 +1560,20 @@
                                     },
                                     {
                                         "isFolder": "true",
-                                        "lastModified": "2020-11-15T16:10:29",
+                                        "lastModified": "2020-12-09T00:57:13",
                                         "name": "Canopy",
                                         "hash": "1f56a18ea74d6862b3e5acfad39bf90f",
                                         "children": [
                                             {
                                                 "isFolder": "false",
-                                                "lastModified": "2020-11-09T19:22:55",
+                                                "lastModified": "2020-12-09T00:57:13",
                                                 "name": "canopy.obj",
                                                 "hash": "c2746807ae6e22508ec4b93727e35610",
                                                 "children": ""
                                             },
                                             {
                                                 "isFolder": "false",
-                                                "lastModified": "2020-11-05T23:20:16",
+                                                "lastModified": "2020-12-09T00:57:13",
                                                 "name": "folder.lock",
                                                 "hash": "d41d8cd98f00b204e9800998ecf8427e",
                                                 "children": ""
@@ -1575,7 +1582,7 @@
                                     },
                                     {
                                         "isFolder": "false",
-                                        "lastModified": "2020-10-31T15:19:21",
+                                        "lastModified": "2020-12-09T00:57:13",
                                         "name": "folder.lock",
                                         "hash": "d41d8cd98f00b204e9800998ecf8427e",
                                         "children": ""
@@ -1584,33 +1591,33 @@
                             },
                             {
                                 "isFolder": "true",
-                                "lastModified": "2020-11-15T17:23:34",
+                                "lastModified": "2020-12-09T00:57:13",
                                 "name": "Scripts",
-                                "hash": "c520a16a1348b00d2362adbe52a3df94",
+                                "hash": "c38e4931c166314fcf3f4b4521c1c447",
                                 "children": [
                                     {
                                         "isFolder": "true",
-                                        "lastModified": "2020-11-15T17:20:22",
+                                        "lastModified": "2020-12-09T00:57:13",
                                         "name": "Water",
-                                        "hash": "f0b76f5c98c26c63287cb3be5466a369",
+                                        "hash": "618fbc837a8cb677298b7dc814fd6fe9",
                                         "children": [
                                             {
                                                 "isFolder": "false",
-                                                "lastModified": "2020-11-15T17:22:13",
+                                                "lastModified": "2020-12-09T01:17:56",
                                                 "name": "WaterTilesGenerator.js",
-                                                "hash": "d357fce65eca10f09cf7dbe55a5aa1d0",
+                                                "hash": "bea767636f4f566a1cc89bf5439f23fd",
                                                 "children": ""
                                             },
                                             {
                                                 "isFolder": "false",
-                                                "lastModified": "2020-11-14T17:26:31",
+                                                "lastModified": "2020-12-09T01:18:00",
                                                 "name": "CopyTransform.js",
-                                                "hash": "19aa217b95f6100dab78d370ecdfb26d",
+                                                "hash": "6753cd721f9d0a02757ec49963499aa1",
                                                 "children": ""
                                             },
                                             {
                                                 "isFolder": "false",
-                                                "lastModified": "2020-10-31T15:26:50",
+                                                "lastModified": "2020-12-09T00:57:13",
                                                 "name": "folder.lock",
                                                 "hash": "d41d8cd98f00b204e9800998ecf8427e",
                                                 "children": ""
@@ -1619,20 +1626,20 @@
                                     },
                                     {
                                         "isFolder": "true",
-                                        "lastModified": "2020-11-15T17:21:02",
+                                        "lastModified": "2020-12-09T00:57:13",
                                         "name": "Canopy",
-                                        "hash": "4800ac8d3e562d022b42332adfba8da0",
+                                        "hash": "1f57ab1603d91c35bcd78e7109a583fa",
                                         "children": [
                                             {
                                                 "isFolder": "false",
-                                                "lastModified": "2020-11-15T17:23:24",
+                                                "lastModified": "2020-12-09T01:18:49",
                                                 "name": "CanopyScale.js",
-                                                "hash": "e4c1859b12eaa9597927e74f352d08ee",
+                                                "hash": "5e337f65af169727b6943fb426edb85a",
                                                 "children": ""
                                             },
                                             {
                                                 "isFolder": "false",
-                                                "lastModified": "2020-11-15T17:20:13",
+                                                "lastModified": "2020-12-09T00:57:13",
                                                 "name": "folder.lock",
                                                 "hash": "d41d8cd98f00b204e9800998ecf8427e",
                                                 "children": ""
@@ -1641,27 +1648,27 @@
                                     },
                                     {
                                         "isFolder": "true",
-                                        "lastModified": "2020-11-15T16:10:29",
+                                        "lastModified": "2020-12-09T00:57:13",
                                         "name": "Animations",
-                                        "hash": "34449ee699b0e16ff7ccf6af32e342a8",
+                                        "hash": "ae3cf45d76ccd67a20eea283f7336463",
                                         "children": [
                                             {
                                                 "isFolder": "false",
-                                                "lastModified": "2020-11-14T17:36:28",
+                                                "lastModified": "2020-12-09T01:42:40",
                                                 "name": "Turntable.js",
-                                                "hash": "4a04d53b8e2738d886508369b57042aa",
+                                                "hash": "38a154ff902242df5c23cbe1f5f8420c",
                                                 "children": ""
                                             },
                                             {
                                                 "isFolder": "false",
-                                                "lastModified": "2020-11-12T14:50:47",
+                                                "lastModified": "2020-12-09T01:24:10",
                                                 "name": "GrowthAnimation.js",
-                                                "hash": "55c17fe836168c17dab5c69b9bb41b61",
+                                                "hash": "8e3f02ca3e33fa9a4092190816802536",
                                                 "children": ""
                                             },
                                             {
                                                 "isFolder": "false",
-                                                "lastModified": "2020-11-09T18:29:43",
+                                                "lastModified": "2020-12-09T00:57:13",
                                                 "name": "folder.lock",
                                                 "hash": "d41d8cd98f00b204e9800998ecf8427e",
                                                 "children": ""
@@ -1670,7 +1677,7 @@
                                     },
                                     {
                                         "isFolder": "false",
-                                        "lastModified": "2020-10-31T15:19:28",
+                                        "lastModified": "2020-12-09T00:57:13",
                                         "name": "folder.lock",
                                         "hash": "d41d8cd98f00b204e9800998ecf8427e",
                                         "children": ""
@@ -1679,7 +1686,7 @@
                             },
                             {
                                 "isFolder": "false",
-                                "lastModified": "2020-10-09T06:06:49",
+                                "lastModified": "2020-12-09T00:57:13",
                                 "name": "folder.lock",
                                 "hash": "d41d8cd98f00b204e9800998ecf8427e",
                                 "children": ""
@@ -2804,6 +2811,48 @@
                             "v": "1604946200226159:464873"
                         }
                     ]
+                }
+            ]
+        },
+        "Compression::IController": {
+            "compression_info": [
+                {
+                    "k": "1604157822159505:586842",
+                    "v": {
+                        "infos": {
+                            "originalSize": "7468",
+                            "compressedSize": "7468",
+                            "originalRAM": "65536",
+                            "compressedRAM": "65536",
+                            "extension": "png",
+                            "settings": {
+                                "isCompressed": "false",
+                                "level": "0",
+                                "type": "0"
+                            }
+                        },
+                        "uncompressed_file": "112",
+                        "compressed_files": ""
+                    }
+                },
+                {
+                    "k": "1604612634864582:1161119",
+                    "v": {
+                        "infos": {
+                            "originalSize": "7255",
+                            "compressedSize": "7255",
+                            "originalRAM": "65536",
+                            "compressedRAM": "65536",
+                            "extension": "png",
+                            "settings": {
+                                "isCompressed": "false",
+                                "level": "0",
+                                "type": "0"
+                            }
+                        },
+                        "uncompressed_file": "113",
+                        "compressed_files": ""
+                    }
                 }
             ]
         }

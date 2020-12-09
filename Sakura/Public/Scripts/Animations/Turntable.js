@@ -1,4 +1,4 @@
-// Max van Leeuwen
+// Max van Leeuwen || maxvanleeuwen.com || twitter: @maksvanleeuwen
 // Rotates the camera around the scene.
 
 
@@ -18,6 +18,9 @@
 //@input SceneObject cameraParent
 
 //@ui {"widget":"group_end"}
+
+//@ui {"widget":"label", "label":""}
+//@ui {"widget":"label", "label":"To disable black background, set World Camera -> Clear Color Option -> None"}
 
 
 
@@ -41,8 +44,9 @@ function nextCameraRotation(){
 
 function init(){
 	if(script.turntable){
-
+		
 		// disable tracking, prepare camera position
+		global.touchSystem.touchBlocking = true;
 		script.tracking.enabled = false;
 		var transf = script.camera.getTransform();
 		transf.setLocalPosition(new vec3(0, script.camHeight, script.camDist));

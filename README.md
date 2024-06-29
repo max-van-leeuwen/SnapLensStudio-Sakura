@@ -1,8 +1,10 @@
 # SnapLensStudio-Sakura
-Sakura tree scene in Lens Studio, the full project files for the Material Graph demo.
+Sakura tree scene in Lens Studio, the full project files for the Material Graph / Shaders demo.
 
 
 
-Previews:
+More info and tutorial video: https://maxvanleeuwen.com/sakura
 
-https://maxvanleeuwen.com/sakura
+<br>
+
+![Sakura tree](https://github.com/max-van-leeuwen/SnapLensStudio-Sakura/blob/main/Media/Sakura.gif?raw=true)
